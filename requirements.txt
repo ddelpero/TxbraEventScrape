@@ -1,2 +1,3 @@
 icalendar==3.11.5
 lxml==3.8.0
+requests==2.18.1
