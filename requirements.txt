@@ -1,0 +1,2 @@
+icalendar==3.11.5
+lxml==3.8.0
