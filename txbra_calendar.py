@@ -105,8 +105,9 @@ class TxbraEventScrape():
                   #to create an all day event, the end date needs to be midnight the next day
                   #these probably aren't all day events, but there's nothing on the page that indicates start time
                   end = start+timedelta(days=1)
-                  event = self.buildEvent(start, end, details)
-                  self.addEvent(details['Event Type'], event) 
+                  if start >= date.today():
+                     event = self.buildEvent(start, end, details)
+                     self.addEvent(details['Event Type'], event) 
       return self
 
 if __name__ == "__main__":
