@@ -57,20 +57,6 @@ URL:https://www.usacycling.org/register/2017-993
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit Series
-DTSTART;VALUE=DATE:20170718
-DTEND;VALUE=DATE:20170719
-DESCRIPTION:Registration Website: https://www.bikereg.com/tuesdaynightcrit
- \nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usac
- ycling.org/events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\
- nEmail Address: mailto:bluefingers50@gmail.com\nEvent Website: https://www
- .facebook.com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: 
- No\n
-LOCATION:Richardson
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit Series
 DTSTART;VALUE=DATE:20170725
 DTEND;VALUE=DATE:20170726
 DESCRIPTION:Registration Website: https://www.bikereg.com/tuesdaynightcrit
@@ -169,19 +155,6 @@ URL:https://www.bikereg.com/tuesdaynightcrit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial Park Crit Series
-DTSTART;VALUE=DATE:20170719
-DTEND;VALUE=DATE:20170720
-DESCRIPTION:Registration Website: On-site\nEvent Type: Road\nEvent Status:
-  Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?pe
- rmit=2017-1262\nContact Name: Alex Montoya\nEmail Address: mailto:localbik
- eracing@gmail.com\nEvent Website: https://www.memorialparkcrit.com\nTexas 
- Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Park Crit Series
 DTSTART;VALUE=DATE:20170726
 DTEND;VALUE=DATE:20170727
 DESCRIPTION:Registration Website: On-site\nEvent Type: Road\nEvent Status:
@@ -257,19 +230,6 @@ DESCRIPTION:Registration Website: On-site\nEvent Type: Road\nEvent Status:
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170720
-DTEND;VALUE=DATE:20170721
-DESCRIPTION:Registration Website: https://www.bikereg.com/events/default.a
- spx?pid=4754\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: http
- s://www.usacycling.org/events/getflyer.php?permit=2017-1038\nContact Name:
-  Kelley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent
-  Website: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
@@ -429,19 +389,6 @@ URL:https://www.bikereg.com/events/default.aspx?pid=4754
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20170720
-DTEND;VALUE=DATE:20170721
-DESCRIPTION:Registration Website: https://www.usacycling.org/register/2017
- -650\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.
- usacycling.org/events/getflyer.php?permit=2017-650\nContact Name: Ginny Ki
- ng\nEmail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracin
- ggroup.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-650
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
 DTSTART;VALUE=DATE:20170727
 DTEND;VALUE=DATE:20170728
 DESCRIPTION:Registration Website: https://www.usacycling.org/register/2017
@@ -557,19 +504,6 @@ DESCRIPTION:Registration Website: https://www.usacycling.org/events/?permi
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:https://www.usacycling.org/events/?permit=2017-1886
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Summer
-DTSTART;VALUE=DATE:20170721
-DTEND;VALUE=DATE:20170722
-DESCRIPTION:Registration Website: On-site\nEvent Type: Track\nEvent Status
- : Scheduled\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSer
- iesflyer.pdf\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.ev
- ans@gmail.com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier: 
-  \nTexas Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championship Series - Summer
