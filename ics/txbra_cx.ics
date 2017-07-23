@@ -3,9 +3,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Cyclocross Schuffle
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=506
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Elgin\, TX
 STATUS:Tentative
 URL:
@@ -14,9 +15,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Bicycle Heaven CX
 DTSTART;VALUE=DATE:20170923
 DTEND;VALUE=DATE:20170924
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:San Antonio\, TX
 STATUS:Tentative
 URL:
@@ -25,9 +27,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Six Shooter
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171002
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Austin\, TX
 STATUS:Tentative
 URL:
@@ -36,9 +39,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Gritty Teeth Racing CX
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171009
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=509
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Austin\, TX
 STATUS:Tentative
 URL:
@@ -47,9 +51,10 @@ BEGIN:VEVENT
 SUMMARY:NTXCX - 1 & 2
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171009
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=525
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
@@ -58,11 +63,12 @@ BEGIN:VEVENT
 SUMMARY:Gerogetown Cyclocross Festival
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171016
-DESCRIPTION:Registration Website: https://info@atxcxcup.com\nEvent Type: C
- yclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.o
- rg/events/getflyer.php?permit=2017-1871\nContact Name: Rolando Roman\nEmai
- l Address: mailto:info@atxcxcup.com\nEvent Website: www.georgetowncyclocro
- ssfestival.com\nTexas Cup Tier: Region\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=504
+ \nRegistration Website: https://info@atxcxcup.com\nEvent Type: Cyclo-cross
+ \nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/
+ getflyer.php?permit=2017-1871\nContact Name: Rolando Roman\nEmail Address:
+  mailto:info@atxcxcup.com\nEvent Website: www.georgetowncyclocrossfestival
+ .com\nTexas Cup Tier: Region\nTexas Cup Event: Yes\n
 LOCATION:Georgetown\, TX
 STATUS:Scheduled
 URL:https://info@atxcxcup.com
@@ -71,9 +77,10 @@ BEGIN:VEVENT
 SUMMARY:HTXCX - 3
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171015
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=511
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -82,9 +89,10 @@ BEGIN:VEVENT
 SUMMARY:GPoTX - BCRCX
 DTSTART;VALUE=DATE:20171021
 DTEND;VALUE=DATE:20171023
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=512
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -93,9 +101,10 @@ BEGIN:VEVENT
 SUMMARY:HTXCX - 4 & 5
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=513
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -104,9 +113,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Heart of TX
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Waco\, TX
 STATUS:Tentative
 URL:
@@ -115,9 +125,10 @@ BEGIN:VEVENT
 SUMMARY:NTXCX - 3 & 4
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=530
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
@@ -126,9 +137,10 @@ BEGIN:VEVENT
 SUMMARY:GPoTX - Cross of Ages
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171106
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=514
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
 LOCATION:Austin\, TX
 STATUS:Tentative
 URL:
@@ -137,11 +149,12 @@ BEGIN:VEVENT
 SUMMARY: WurstCross Festival
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171113
-DESCRIPTION:Registration Website: https://info@atxcxcup.com\nEvent Type: C
- yclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.o
- rg/events/getflyer.php?permit=2017-1872\nContact Name: Rolando Roman\nEmai
- l Address: mailto:info@atxcxcup.com\nEvent Website: www.atxcxcup.com/wurst
- cross-cyclocross\nTexas Cup Tier: Region\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=505
+ \nRegistration Website: https://info@atxcxcup.com\nEvent Type: Cyclo-cross
+ \nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/
+ getflyer.php?permit=2017-1872\nContact Name: Rolando Roman\nEmail Address:
+  mailto:info@atxcxcup.com\nEvent Website: www.atxcxcup.com/wurstcross-cycl
+ ocross\nTexas Cup Tier: Region\nTexas Cup Event: Yes\n
 LOCATION:New Braunfels\, TX
 STATUS:Scheduled
 URL:https://info@atxcxcup.com
@@ -150,9 +163,10 @@ BEGIN:VEVENT
 SUMMARY:HTXCX - 6 & 7
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171113
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=515
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -161,9 +175,10 @@ BEGIN:VEVENT
 SUMMARY:Cyntergy Hurtland
 DTSTART;VALUE=DATE:20171112
 DTEND;VALUE=DATE:20171113
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: hurtlandusa.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=528
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: hu
+ rtlandusa.com\nTexas Cup Tier: \nTexas Cup Event: No\n
 LOCATION:Tulsa\, OK
 STATUS:Tentative
 URL:
@@ -172,9 +187,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Webberville CX
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=516
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Austin\, TX
 STATUS:Tentative
 URL:
@@ -183,9 +199,10 @@ BEGIN:VEVENT
 SUMMARY:HTXCX - 8
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171119
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=517
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -194,9 +211,10 @@ BEGIN:VEVENT
 SUMMARY:NTXCX - 5 & 6
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=526
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
@@ -205,9 +223,10 @@ BEGIN:VEVENT
 SUMMARY:Ruts and Guts
 DTSTART;VALUE=DATE:20171201
 DTEND;VALUE=DATE:20171203
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: \nTexas Cup Event: No\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=522
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: \nTexas Cup Event: No\n
 LOCATION:Broken Arrow\, OK
 STATUS:Tentative
 URL:
@@ -216,9 +235,10 @@ BEGIN:VEVENT
 SUMMARY:HTXCX - 9
 DTSTART;VALUE=DATE:20171202
 DTEND;VALUE=DATE:20171203
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=524
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -227,9 +247,10 @@ BEGIN:VEVENT
 SUMMARY:GPoTX - Resolution Cup
 DTSTART;VALUE=DATE:20171209
 DTEND;VALUE=DATE:20171211
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=518
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
 LOCATION:Garland\, TX
 STATUS:Tentative
 URL:
@@ -238,9 +259,10 @@ BEGIN:VEVENT
 SUMMARY:HTXCX - 10 & 11
 DTSTART;VALUE=DATE:20171216
 DTEND;VALUE=DATE:20171218
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=519
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -249,9 +271,10 @@ BEGIN:VEVENT
 SUMMARY:CTXCX - Fredericksburg
 DTSTART;VALUE=DATE:20171216
 DTEND;VALUE=DATE:20171218
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=520
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Fredericksburg\, TX
 STATUS:Tentative
 URL:
@@ -260,9 +283,10 @@ BEGIN:VEVENT
 SUMMARY:NTXCX - 7 & 8
 DTSTART;VALUE=DATE:20171230
 DTEND;VALUE=DATE:20180101
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=527
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
@@ -271,9 +295,10 @@ BEGIN:VEVENT
 SUMMARY:CX State Championships
 DTSTART;VALUE=DATE:20180106
 DTEND;VALUE=DATE:20180108
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Tentative\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: Championship\nTexas Cup Event: Yes\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=521
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Championship\nTexas Cup Event: Yes\n
 LOCATION:Fort Worth\, TX
 STATUS:Tentative
 URL:
@@ -282,9 +307,10 @@ BEGIN:VEVENT
 SUMMARY:USA Cycling National Cyclo-Cross Championships
 DTSTART;VALUE=DATE:20180109
 DTEND;VALUE=DATE:20180116
-DESCRIPTION:Registration Website: \nEvent Type: Cyclo-cross\nEvent Status:
-  Scheduled\nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent W
- ebsite: \nTexas Cup Tier: \nTexas Cup Event: No\n
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=523
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: \nTexas Cup Event: No\n
 LOCATION:Reno\, NV
 STATUS:Scheduled
 URL:
