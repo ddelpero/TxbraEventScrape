@@ -43,7 +43,8 @@ class TxbraEventScrape():
       event.add('location', details['Event Location'])
       event.add('url', details['Registration Website'])
 
-      description = "Registration Website: " + details['Registration Website'] + os.linesep
+      description = "TXBRA Event: " + details['TXBRA Event'] + os.linesep
+      description += "Registration Website: " + details['Registration Website'] + os.linesep
       description += 'Event Type: ' + details['Event Type'] + os.linesep
       description += 'Event Status: '+ details['Event Status'] + os.linesep
       description += 'Event Flyer: ' + details['Event Flyer'] + os.linesep
@@ -56,6 +57,10 @@ class TxbraEventScrape():
       return event
 
 
+   def getURL(self, race_event):
+      return self.url+ "/" + race_event
+
+
    def scrape(self):
       page = requests.get(self.url)
       tree = html.fromstring(page.content)
@@ -65,8 +70,8 @@ class TxbraEventScrape():
       #print events
 
       for race_event in events:
-         #print url + race_event
-         page = requests.get(self.url+ "/" + race_event)
+         #print URL + race_event
+         page = requests.get(self.getURL(race_event))
          tree = html.fromstring(page.content)
          # build key/pair dictionary of event page
          details = dict()
@@ -76,7 +81,8 @@ class TxbraEventScrape():
            if len(t.xpath('td//text()')) > 1:
              details[t.xpath('td//text()')[0]] = t.xpath('td//text()')[1]
          #print details
-
+         
+         details['TXBRA Event'] = self.getURL(race_event)
          # Event dates is a list of dates. If we have consecutive days, create a multi-day event
          # if we have non-consecutive days, create an individual event for each date
          event_dates = details['Event Dates'].split(',')
