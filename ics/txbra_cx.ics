@@ -4,12 +4,14 @@ SUMMARY:CTXCX - Cyclocross Schuffle
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=506
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Cyclo-cross\n
+ Event Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/ge
+ tflyer.php?permit=2017-2490\nContact Name: James Sides\nEmail Address: mai
+ lto:james_g_sides@hotmail.com\nEvent Website:  \nTexas Cup Tier: Region-C
+ entral\nTexas Cup Event: Yes\n
 LOCATION:Elgin\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CTXCX - Bicycle Heaven CX
@@ -74,14 +76,14 @@ STATUS:Scheduled
 URL:https://info@atxcxcup.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 3
+SUMMARY:HTXCX - 1 & 2
 DTSTART;VALUE=DATE:20171014
-DTEND;VALUE=DATE:20171015
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=511
+DTEND;VALUE=DATE:20171016
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=510
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
+LOCATION:Houston\, TX (Hilltop Ranch)
 STATUS:Tentative
 URL:
 END:VEVENT
@@ -98,10 +100,10 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 4 & 5
+SUMMARY:HTXCX - 3 & 4
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=513
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=511
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
@@ -160,14 +162,14 @@ STATUS:Scheduled
 URL:https://info@atxcxcup.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 6 & 7
+SUMMARY:HTXCX - 5
 DTSTART;VALUE=DATE:20171111
-DTEND;VALUE=DATE:20171113
+DTEND;VALUE=DATE:20171112
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=515
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
+LOCATION:Woodlands\, TX (Terra Mount Park)
 STATUS:Tentative
 URL:
 END:VEVENT
@@ -196,7 +198,7 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 8
+SUMMARY:HTXCX - 6
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171119
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=517
@@ -232,14 +234,14 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 9
+SUMMARY:HTXCX - 7 & 8
 DTSTART;VALUE=DATE:20171202
-DTEND;VALUE=DATE:20171203
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=524
+DTEND;VALUE=DATE:20171204
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=519
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
+LOCATION:Houston\, TX (Marina)
 STATUS:Tentative
 URL:
 END:VEVENT
@@ -256,10 +258,10 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 10 & 11
+SUMMARY:HTXCX - Series Final
 DTSTART;VALUE=DATE:20171216
-DTEND;VALUE=DATE:20171218
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=519
+DTEND;VALUE=DATE:20171217
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=513
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
@@ -276,6 +278,18 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=520
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
 LOCATION:Fredericksburg\, TX
+STATUS:Tentative
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Age Champs
+DTSTART;VALUE=DATE:20171217
+DTEND;VALUE=DATE:20171218
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=524
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
+ \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
+ Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
 END:VEVENT
