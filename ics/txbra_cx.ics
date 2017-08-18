@@ -14,16 +14,19 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Bicycle Heaven CX
+SUMMARY:Best Cross
 DTSTART;VALUE=DATE:20170923
 DTEND;VALUE=DATE:20170924
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
+  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
+ .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
+ il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
+ ebook.com/events/464347523940517/\nTexas Cup Tier: Region-Central\nTexas C
+ up Event: Yes\n
 LOCATION:San Antonio\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.bikereg.com/bestcross2017
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CTXCX - Six Shooter

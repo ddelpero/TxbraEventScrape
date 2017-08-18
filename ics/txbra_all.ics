@@ -1,103 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit Series
-DTSTART;VALUE=DATE:20170822
-DTEND;VALUE=DATE:20170823
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
- /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
- ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
- com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit Series
-DTSTART;VALUE=DATE:20170829
-DTEND;VALUE=DATE:20170830
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
- /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
- ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
- com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit Series
-DTSTART;VALUE=DATE:20170905
-DTEND;VALUE=DATE:20170906
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
- /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
- ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
- com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Park Crit Series
-DTSTART;VALUE=DATE:20170816
-DTEND;VALUE=DATE:20170817
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=477
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit=2017-
- 1262\nContact Name: Alex Montoya\nEmail Address: mailto:localbikeracing@gm
- ail.com\nEvent Website: https://www.memorialparkcrit.com\nTexas Cup Tier: 
- \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Park Crit Series
-DTSTART;VALUE=DATE:20170823
-DTEND;VALUE=DATE:20170824
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=477
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit=2017-
- 1262\nContact Name: Alex Montoya\nEmail Address: mailto:localbikeracing@gm
- ail.com\nEvent Website: https://www.memorialparkcrit.com\nTexas Cup Tier: 
- \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Park Crit Series
-DTSTART;VALUE=DATE:20170830
-DTEND;VALUE=DATE:20170831
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=477
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit=2017-
- 1262\nContact Name: Alex Montoya\nEmail Address: mailto:localbikeracing@gm
- ail.com\nEvent Website: https://www.memorialparkcrit.com\nTexas Cup Tier: 
- \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170817
-DTEND;VALUE=DATE:20170818
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
 DTSTART;VALUE=DATE:20170824
 DTEND;VALUE=DATE:20170825
@@ -208,20 +110,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20170817
-DTEND;VALUE=DATE:20170818
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=483
- \nRegistration Website: https://www.usacycling.org/register/2017-650\nEven
- t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-650\nContact Name: Ginny King\nEmail 
- Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggroup.com
- \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
@@ -392,6 +280,76 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-993
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tuesday Night Crit Series
+DTSTART;VALUE=DATE:20170822
+DTEND;VALUE=DATE:20170823
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
+ \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
+ pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
+ /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
+ ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
+ com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Richardson
+STATUS:Scheduled
+URL:https://www.bikereg.com/tuesdaynightcrit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Crit Series
+DTSTART;VALUE=DATE:20170829
+DTEND;VALUE=DATE:20170830
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
+ \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
+ pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
+ /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
+ ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
+ com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Richardson
+STATUS:Scheduled
+URL:https://www.bikereg.com/tuesdaynightcrit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Night Crit Series
+DTSTART;VALUE=DATE:20170905
+DTEND;VALUE=DATE:20170906
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
+ \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
+ pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
+ /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
+ ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
+ com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Richardson
+STATUS:Scheduled
+URL:https://www.bikereg.com/tuesdaynightcrit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Crit Series
+DTSTART;VALUE=DATE:20170823
+DTEND;VALUE=DATE:20170824
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=477
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit=2017-
+ 1262\nContact Name: Alex Montoya\nEmail Address: mailto:localbikeracing@gm
+ ail.com\nEvent Website: https://www.memorialparkcrit.com\nTexas Cup Tier: 
+ \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Crit Series
+DTSTART;VALUE=DATE:20170830
+DTEND;VALUE=DATE:20170831
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=477
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit=2017-
+ 1262\nContact Name: Alex Montoya\nEmail Address: mailto:localbikeracing@gm
+ ail.com\nEvent Website: https://www.memorialparkcrit.com\nTexas Cup Tier: 
+ \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BCycle Fun Race
 DTSTART;VALUE=DATE:20170823
 DTEND;VALUE=DATE:20170824
@@ -501,6 +459,76 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
 LOCATION:Alkek Velodrome
 STATUS:Scheduled
 URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170901
+DTEND;VALUE=DATE:20170902
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170908
+DTEND;VALUE=DATE:20170909
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170915
+DTEND;VALUE=DATE:20170916
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170922
+DTEND;VALUE=DATE:20170923
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170929
+DTEND;VALUE=DATE:20170930
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:International Omnium
@@ -628,16 +656,33 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Bicycle Heaven CX
+SUMMARY:Bicycles Inc & FWCX Free Annual CX Clinic
+DTSTART;VALUE=DATE:20170919
+DTEND;VALUE=DATE:20170920
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=532
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2562\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Best Cross
 DTSTART;VALUE=DATE:20170923
 DTEND;VALUE=DATE:20170924
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
+  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
+ .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
+ il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
+ ebook.com/events/464347523940517/\nTexas Cup Tier: Region-Central\nTexas C
+ up Event: Yes\n
 LOCATION:San Antonio\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.bikereg.com/bestcross2017
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CTXCX - Six Shooter
@@ -650,6 +695,90 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
 LOCATION:Austin\, TX
 STATUS:Tentative
 URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171003
+DTEND;VALUE=DATE:20171004
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171010
+DTEND;VALUE=DATE:20171011
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171017
+DTEND;VALUE=DATE:20171018
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171024
+DTEND;VALUE=DATE:20171025
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171031
+DTEND;VALUE=DATE:20171101
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171107
+DTEND;VALUE=DATE:20171108
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Red Bull Last Stand
