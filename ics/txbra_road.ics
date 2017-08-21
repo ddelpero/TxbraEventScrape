@@ -183,20 +183,6 @@ URL:www.bikereg.com/texas-gravel-championship2017
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atomic Time Trial Series
-DTSTART;VALUE=DATE:20170819
-DTEND;VALUE=DATE:20170820
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=488
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AtomicTTSeries.pdf\nContact Na
- me: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.com\nEvent Web
- site: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Time Trial Series
 DTSTART;VALUE=DATE:20170923
 DTEND;VALUE=DATE:20170924
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=488
@@ -208,20 +194,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=488
 LOCATION:Alkek Velodrome
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Criterium of the Americas Series
-DTSTART;VALUE=DATE:20170819
-DTEND;VALUE=DATE:20170820
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=500
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.
- php?permit=2017-2025\nContact Name: Kelley Ables\nEmail Address: mailto:ke
- lley.ables@hollandracing.net\nEvent Website: http://drivewayseries.com/\nT
- exas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Criterium of the Americas Series
