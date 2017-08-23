@@ -210,20 +210,6 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunday Chicanes
-DTSTART;VALUE=DATE:20170820
-DTEND;VALUE=DATE:20170821
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=503
- \nRegistration Website: https://www.bikereg.com/sunday-chicanes1\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: http://www.usacycling.org/
- events/getflyer.php?permit=2017-1680\nContact Name: Aaron Nelson\nEmail Ad
- dress: mailto:jellyandjamracing@gmail.com\nEvent Website: https://www.stra
- va.com/routes/3012755\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Universal City\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/sunday-chicanes1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tree of Life Crit Series
 DTSTART;VALUE=DATE:20170822
 DTEND;VALUE=DATE:20170823
