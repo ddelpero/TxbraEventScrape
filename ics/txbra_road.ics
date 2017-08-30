@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit Series
-DTSTART;VALUE=DATE:20170829
-DTEND;VALUE=DATE:20170830
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
- /events/getflyer.php?permit=2017-564\nContact Name: Jorge Merle\nEmail Add
- ress: mailto:bluefingers50@gmail.com\nEvent Website: https://www.facebook.
- com/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit Series
 DTSTART;VALUE=DATE:20170905
 DTEND;VALUE=DATE:20170906
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=478
