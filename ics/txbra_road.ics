@@ -127,20 +127,6 @@ URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20170901
-DTEND;VALUE=DATE:20170902
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
 DTSTART;VALUE=DATE:20170908
 DTEND;VALUE=DATE:20170909
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
@@ -194,20 +180,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
 LOCATION:Alkek Velodrome
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170901
-DTEND;VALUE=DATE:20170902
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fast Lane Fridays
@@ -280,20 +252,6 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2613
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Marvelous Race Series
-DTSTART;VALUE=DATE:20170902
-DTEND;VALUE=DATE:20170903
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=482
- \nRegistration Website: https://www.usacycling.org/register/2017-352\nEven
- t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-352\nContact Name: 	Conor Steward\nEm
- ail Address: mailto:sanmarvelousracing@gmail.com\nEvent Website: \nTexas C
- up Tier: \nTexas Cup Event: No\n
-LOCATION:San Marcos\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-352
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Texas Cup Keirin at Alkek
 DTSTART;VALUE=DATE:20170903
 DTEND;VALUE=DATE:20170904
@@ -306,20 +264,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=465
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:https://www.usacycling.org/events/?permit=2017-1953
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castroville Time Trials
-DTSTART;VALUE=DATE:20170903
-DTEND;VALUE=DATE:20170904
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=494
- \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
- nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacy
- cling.org/events/getflyer.php?permit=2017-842\nContact Name: Melissa Britt
- on\nEmail Address: mailto:infohcsa@gmail.com\nEvent Website: http://www.hi
- llcountrysa.org/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Castroville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/castrovilletimetrialmarch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castroville Time Trials
