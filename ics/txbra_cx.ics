@@ -136,16 +136,19 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2749
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Gritty Teeth Racing CX
+SUMMARY:CTXCX-Gritty Teeth Racing Cyclocross Festival
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171009
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=509
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.usacycling.org/register/2017-2824\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2824\nContact Name: Chad Welc
+ h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
+ //www.grittyteethracing.com/\nTexas Cup Tier: Region-Central\nTexas Cup Ev
+ ent: Yes\n
 LOCATION:Austin\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2824
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NTXCX - 1 & 2

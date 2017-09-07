@@ -99,8 +99,8 @@ URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20170915
-DTEND;VALUE=DATE:20170916
+DTSTART;VALUE=DATE:20170914
+DTEND;VALUE=DATE:20170915
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=483
  \nRegistration Website: https://www.usacycling.org/register/2017-650\nEven
  t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
@@ -224,48 +224,6 @@ STATUS:Scheduled
 URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:International Omnium
-DTSTART;VALUE=DATE:20170902
-DTEND;VALUE=DATE:20170904
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=469
- \nRegistration Website: https://www.usacycling.org/register/2017-2613\nEve
- nt Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycli
- ng.org/events/getflyer.php?permit=2017-2613\nContact Name: Doug Evans\nEma
- il Address: mailto:dougevans@alkekvelodrome.org\nEvent Website: http://alk
- ekvelodrome.org/\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Cup Keirin at Alkek
-DTSTART;VALUE=DATE:20170903
-DTEND;VALUE=DATE:20170904
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=465
- \nRegistration Website: https://www.usacycling.org/events/?permit=2017-195
- 3\nEvent Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1953\nContact Name: Doug Evan
- s\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEvent Website: www.
- alkekvelodrome.org\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/events/?permit=2017-1953
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castroville Time Trials
-DTSTART;VALUE=DATE:20171001
-DTEND;VALUE=DATE:20171002
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=494
- \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
- nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacy
- cling.org/events/getflyer.php?permit=2017-842\nContact Name: Melissa Britt
- on\nEmail Address: mailto:infohcsa@gmail.com\nEvent Website: http://www.hi
- llcountrysa.org/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Castroville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/castrovilletimetrialmarch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Masters Pre-Worlds
 DTSTART;VALUE=DATE:20170909
 DTEND;VALUE=DATE:20170910
@@ -360,6 +318,20 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=500
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castroville Time Trials
+DTSTART;VALUE=DATE:20171001
+DTEND;VALUE=DATE:20171002
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=494
+ \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
+ nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacy
+ cling.org/events/getflyer.php?permit=2017-842\nContact Name: Melissa Britt
+ on\nEmail Address: mailto:infohcsa@gmail.com\nEvent Website: http://www.hi
+ llcountrysa.org/\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Castroville\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/castrovilletimetrialmarch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
@@ -486,16 +458,17 @@ STATUS:Tentative
 URL:www...
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iceman's Challenge Gravel Race and Pursuit
+SUMMARY:Iceman's Ultra Gravel Race and Adventure Pursuit
 DTSTART;VALUE=DATE:20171202
 DTEND;VALUE=DATE:20171203
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=475
- \nRegistration Website: www...\nEvent Type: Gravel\nEvent Status: Tentativ
- e\nEvent Flyer: Flyer...\nContact Name: Don Ickles\nEmail Address: mailto:
- Don.Ickles@icloud.com\nEvent Website: website...\nTexas Cup Tier: \nTexas 
- Cup Event: No\n
+ \nRegistration Website: https://www.bikereg.com/icemans-challenge-gravel-p
+ ursuit\nEvent Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://
+ www.usacycling.org/events/flyer.php?permit=2017-2842\nContact Name: Don Ic
+ kles\nEmail Address: mailto:Don.Ickles@icloud.com\nEvent Website: www.icem
+ anschallenge.com\nTexas Cup Tier: \nTexas Cup Event: No\n
 LOCATION:TX
-STATUS:Tentative
-URL:www...
+STATUS:Scheduled
+URL:https://www.bikereg.com/icemans-challenge-gravel-pursuit
 END:VEVENT
 END:VCALENDAR
