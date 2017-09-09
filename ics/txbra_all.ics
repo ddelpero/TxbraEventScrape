@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170907
-DTEND;VALUE=DATE:20170908
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
 DTSTART;VALUE=DATE:20170914
 DTEND;VALUE=DATE:20170915
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
@@ -82,20 +68,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20170907
-DTEND;VALUE=DATE:20170908
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=483
- \nRegistration Website: https://www.usacycling.org/register/2017-650\nEven
- t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-650\nContact Name: Ginny King\nEmail 
- Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggroup.com
- \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
@@ -251,7 +223,7 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2527
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Cyclocross Schuffle
+SUMMARY:SXCX - Cyclocros Scuffle
 DTSTART;VALUE=DATE:20170910
 DTEND;VALUE=DATE:20170911
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=506
@@ -259,7 +231,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=506
  ross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/eve
  nts/getflyer.php?permit=2017-2490\nContact Name: James Sides\nEmail Addres
  s: mailto:james_g_sides@hotmail.com\nEvent Website:  \nTexas Cup Tier: Re
- gion-Central\nTexas Cup Event: Yes\n
+ gion-SXCX\nTexas Cup Event: No\n
 LOCATION:Elgin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/36014
@@ -413,7 +385,7 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/bestcross2017
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Best Cross
+SUMMARY:SXCX - Best Cross
 DTSTART;VALUE=DATE:20170924
 DTEND;VALUE=DATE:20170925
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
@@ -421,8 +393,8 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
   Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
  .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
  il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
- ebook.com/events/464347523940517/\nTexas Cup Tier: Region-Central\nTexas C
- up Event: Yes\n
+ ebook.com/events/464347523940517/\nTexas Cup Tier: Region-SXCX\nTexas Cup 
+ Event: No\n
 LOCATION:San Antonio\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/bestcross2017
@@ -442,7 +414,7 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Six Shooter
+SUMMARY:SXCX - Six Shooter
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171002
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
@@ -450,10 +422,24 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
  nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
  acycling.org/events/getflyer.php?permit=2017-2749\nContact Name: Brett Kin
  sey\nEmail Address: mailto:brettbk512@gmail.com\nEvent Website: 	\nTexas C
- up Tier: Region-Central\nTexas Cup Event: Yes\n
+ up Tier: Region-SXCX\nTexas Cup Event: No\n
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2749
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emmitt Smith Gran Fondo
+DTSTART;VALUE=DATE:20170930
+DTEND;VALUE=DATE:20171001
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=540
+ \nRegistration Website: http://emmittsmithgranfondo.com/\nEvent Type: Gran
+  Fondo\nEvent Status: Scheduled\nEvent Flyer: http://emmittsmithgranfondo.
+ com/\nContact Name: Tanna Wood\nEmail Address: mailto:race.director@wetime
+ races.com\nEvent Website: http://emmittsmithgranfondo.com/\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:http://emmittsmithgranfondo.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castroville Time Trials
@@ -568,7 +554,7 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/red-bull-last-stand
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX-Gritty Teeth Racing Cyclocross Festival
+SUMMARY:SXCX - Gritty Teeth Racing Cyclocross Festival
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171009
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=509
@@ -576,8 +562,8 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=509
  nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
  acycling.org/events/getflyer.php?permit=2017-2824\nContact Name: Chad Welc
  h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
- //www.grittyteethracing.com/\nTexas Cup Tier: Region-Central\nTexas Cup Ev
- ent: Yes\n
+ //www.grittyteethracing.com/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event
+ : No\n
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2824
@@ -589,13 +575,13 @@ DTEND;VALUE=DATE:20171009
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=525
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gerogetown Cyclocross Festival
+SUMMARY:ATXCX - Georgetown Cyclocross Festival
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171016
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=504
@@ -603,7 +589,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=504
  \nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/
  getflyer.php?permit=2017-1871\nContact Name: Rolando Roman\nEmail Address:
   mailto:info@atxcxcup.com\nEvent Website: www.georgetowncyclocrossfestival
- .com\nTexas Cup Tier: Region\nTexas Cup Event: Yes\n
+ .com\nTexas Cup Tier: Region-ATXCX\nTexas Cup Event: No\n
 LOCATION:Georgetown\, TX
 STATUS:Scheduled
 URL:https://info@atxcxcup.com
@@ -615,7 +601,7 @@ DTEND;VALUE=DATE:20171016
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=510
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX (Hilltop Ranch)
 STATUS:Tentative
 URL:
@@ -639,22 +625,25 @@ DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=511
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Heart of TX
+SUMMARY:SXCX - Spooky Cross
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.usacycling.org/register/2017-2802\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2802\nContact Name: Chad Welc
+ h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
+ //www.grittyteethracing.com/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event
+ : No\n
 LOCATION:Waco\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NTXCX - 3 & 4
@@ -663,7 +652,7 @@ DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=530
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
@@ -694,20 +683,7 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Camp Bullis Gravel Grinder
-DTSTART;VALUE=DATE:20171111
-DTEND;VALUE=DATE:20171112
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=474
- \nRegistration Website: www...\nEvent Type: Gravel\nEvent Status: Tentativ
- e\nEvent Flyer: Flyer...\nContact Name: George Heagerty\nEmail Address: ma
- ilto:gheag12@gmail.com\nEvent Website: website...\nTexas Cup Tier: \nTexas
-  Cup Event: No\n
-LOCATION:TX
-STATUS:Tentative
-URL:www...
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: WurstCross Festival
+SUMMARY:ATXCX - WurstCross Festival
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171113
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=505
@@ -715,7 +691,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=505
  \nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/
  getflyer.php?permit=2017-1872\nContact Name: Rolando Roman\nEmail Address:
   mailto:info@atxcxcup.com\nEvent Website: www.atxcxcup.com/wurstcross-cycl
- ocross\nTexas Cup Tier: Region\nTexas Cup Event: Yes\n
+ ocross\nTexas Cup Tier: Region-ATXCX\nTexas Cup Event: No\n
 LOCATION:New Braunfels\, TX
 STATUS:Scheduled
 URL:https://info@atxcxcup.com
@@ -727,7 +703,7 @@ DTEND;VALUE=DATE:20171112
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=515
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Woodlands\, TX (Terra Mount Park)
 STATUS:Tentative
 URL:
@@ -745,13 +721,13 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Webberville CX
+SUMMARY:SXCX - Webberville
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=516
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-SXCX\nTexas Cup Event: No\n
 LOCATION:Austin\, TX
 STATUS:Tentative
 URL:
@@ -763,7 +739,7 @@ DTEND;VALUE=DATE:20171119
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=517
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
@@ -775,10 +751,23 @@ DTEND;VALUE=DATE:20171120
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=526
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
 LOCATION:North TX
 STATUS:Tentative
 URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Turkey Climb Time Trial
+DTSTART;VALUE=DATE:20171124
+DTEND;VALUE=DATE:20171125
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=541
+ \nRegistration Website:  \nEvent Type: Road\nEvent Status: Tentative\nEve
+ nt Flyer: null\nContact Name: Brad Tothabone\nEmail Address: mailto:bububu
+ brad@gmail.com\nEvent Website: null\nTexas Cup Tier:  \nTexas Cup Event: 
+ No\n
+LOCATION:Dallas\, TX
+STATUS:Tentative
+URL: 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ruts and Guts
@@ -813,7 +802,7 @@ DTEND;VALUE=DATE:20171204
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=519
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX (Marina)
 STATUS:Tentative
 URL:
@@ -837,19 +826,19 @@ DTEND;VALUE=DATE:20171217
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=513
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CTXCX - Fredericksburg
+SUMMARY:SXCX - Fredericksburg
 DTSTART;VALUE=DATE:20171216
 DTEND;VALUE=DATE:20171218
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=520
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-Central\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-SXCX\nTexas Cup Event: No\n
 LOCATION:Fredericksburg\, TX
 STATUS:Tentative
 URL:
@@ -873,7 +862,7 @@ DTEND;VALUE=DATE:20180101
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=527
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-North\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
 LOCATION:North TX
 STATUS:Tentative
 URL:

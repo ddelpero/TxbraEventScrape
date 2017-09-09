@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170907
-DTEND;VALUE=DATE:20170908
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
 DTSTART;VALUE=DATE:20170914
 DTEND;VALUE=DATE:20170915
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
@@ -82,20 +68,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20170907
-DTEND;VALUE=DATE:20170908
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=483
- \nRegistration Website: https://www.usacycling.org/register/2017-650\nEven
- t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-650\nContact Name: Ginny King\nEmail 
- Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggroup.com
- \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
@@ -320,6 +292,20 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Emmitt Smith Gran Fondo
+DTSTART;VALUE=DATE:20170930
+DTEND;VALUE=DATE:20171001
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=540
+ \nRegistration Website: http://emmittsmithgranfondo.com/\nEvent Type: Gran
+  Fondo\nEvent Status: Scheduled\nEvent Flyer: http://emmittsmithgranfondo.
+ com/\nContact Name: Tanna Wood\nEmail Address: mailto:race.director@wetime
+ races.com\nEvent Website: http://emmittsmithgranfondo.com/\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:http://emmittsmithgranfondo.com/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castroville Time Trials
 DTSTART;VALUE=DATE:20171001
 DTEND;VALUE=DATE:20171002
@@ -445,17 +431,17 @@ STATUS:Tentative
 URL:www...
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Camp Bullis Gravel Grinder
-DTSTART;VALUE=DATE:20171111
-DTEND;VALUE=DATE:20171112
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=474
- \nRegistration Website: www...\nEvent Type: Gravel\nEvent Status: Tentativ
- e\nEvent Flyer: Flyer...\nContact Name: George Heagerty\nEmail Address: ma
- ilto:gheag12@gmail.com\nEvent Website: website...\nTexas Cup Tier: \nTexas
-  Cup Event: No\n
-LOCATION:TX
+SUMMARY:The Turkey Climb Time Trial
+DTSTART;VALUE=DATE:20171124
+DTEND;VALUE=DATE:20171125
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=541
+ \nRegistration Website:  \nEvent Type: Road\nEvent Status: Tentative\nEve
+ nt Flyer: null\nContact Name: Brad Tothabone\nEmail Address: mailto:bububu
+ brad@gmail.com\nEvent Website: null\nTexas Cup Tier:  \nTexas Cup Event: 
+ No\n
+LOCATION:Dallas\, TX
 STATUS:Tentative
-URL:www...
+URL: 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Iceman's Ultra Gravel Race and Adventure Pursuit
