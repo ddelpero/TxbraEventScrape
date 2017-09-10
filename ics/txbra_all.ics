@@ -85,20 +85,6 @@ URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20170908
-DTEND;VALUE=DATE:20170909
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
 DTSTART;VALUE=DATE:20170922
 DTEND;VALUE=DATE:20170923
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
@@ -138,20 +124,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
 LOCATION:Alkek Velodrome
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170908
-DTEND;VALUE=DATE:20170909
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fast Lane Fridays
