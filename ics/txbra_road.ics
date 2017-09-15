@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170914
-DTEND;VALUE=DATE:20170915
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
 DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170922
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
@@ -68,20 +54,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20170914
-DTEND;VALUE=DATE:20170915
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=483
- \nRegistration Website: https://www.usacycling.org/register/2017-650\nEven
- t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-650\nContact Name: Ginny King\nEmail 
- Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggroup.com
- \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championship Series - Fall
@@ -222,20 +194,6 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bicycles Inc & FWCX Free Annual CX Clinic
-DTSTART;VALUE=DATE:20170919
-DTEND;VALUE=DATE:20170920
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=532
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2562\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atomic Time Trial Series
 DTSTART;VALUE=DATE:20170923
 DTEND;VALUE=DATE:20170924
@@ -248,6 +206,20 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=488
 LOCATION:Alkek Velodrome
 STATUS:Scheduled
 URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bicycles Inc & FWCX Free Annual CX Clinic
+DTSTART;VALUE=DATE:20170926
+DTEND;VALUE=DATE:20170927
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=532
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2562\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Criterium of the Americas Series
