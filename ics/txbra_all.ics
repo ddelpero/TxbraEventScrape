@@ -1,186 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170921
-DTEND;VALUE=DATE:20170922
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170928
-DTEND;VALUE=DATE:20170929
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20171005
-DTEND;VALUE=DATE:20171006
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20171012
-DTEND;VALUE=DATE:20171013
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20170922
-DTEND;VALUE=DATE:20170923
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20170929
-DTEND;VALUE=DATE:20170930
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20171006
-DTEND;VALUE=DATE:20171007
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170915
-DTEND;VALUE=DATE:20170916
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170922
-DTEND;VALUE=DATE:20170923
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170929
-DTEND;VALUE=DATE:20170930
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Masters Pre-Worlds
-DTSTART;VALUE=DATE:20170909
-DTEND;VALUE=DATE:20170910
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=534
- \nRegistration Website: https://www.bikereg.com/masters\nEvent Type: Track
- \nEvent Status: Scheduled\nEvent Flyer: http:\\\\\nContact Name: Jorge Mer
- le\nEmail Address: mailto:bluefingers50@gmail.com\nEvent Website: www.supe
- rdrome.com\nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/masters
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chappell Hill Bank Classic
-DTSTART;VALUE=DATE:20170910
-DTEND;VALUE=DATE:20170911
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=470
- \nRegistration Website: https://www.usacycling.org/register/2017-2527\nEve
- nt Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacyclin
- g.org/events/getflyer.php?permit=2017-2527\nContact Name: Val Tiemann\nEma
- il Address: mailto:chappellhill@nwcc.bike\nEvent Website: www.chappellhill
- roadrace.com/\nTexas Cup Tier: Elite\nTexas Cup Event: Yes\n
-LOCATION:Chappell Hill\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2527
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SXCX - Cyclocros Scuffle
-DTSTART;VALUE=DATE:20170910
-DTEND;VALUE=DATE:20170911
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=506
- \nRegistration Website: https://www.bikereg.com/36014\nEvent Type: Cyclo-c
- ross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/eve
- nts/getflyer.php?permit=2017-2490\nContact Name: James Sides\nEmail Addres
- s: mailto:james_g_sides@hotmail.com\nEvent Website:  \nTexas Cup Tier: Re
- gion-SXCX\nTexas Cup Event: No\n
-LOCATION:Elgin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/36014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fort Hood Road Race
 DTSTART;VALUE=DATE:20170916
 DTEND;VALUE=DATE:20170918
@@ -284,6 +103,132 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Crit Series
+DTSTART;VALUE=DATE:20170921
+DTEND;VALUE=DATE:20170922
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
+ \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
+ 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
+ les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
+ www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/default.aspx?pid=4754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Crit Series
+DTSTART;VALUE=DATE:20170928
+DTEND;VALUE=DATE:20170929
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
+ \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
+ 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
+ les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
+ www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/default.aspx?pid=4754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Crit Series
+DTSTART;VALUE=DATE:20171005
+DTEND;VALUE=DATE:20171006
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
+ \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
+ 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
+ les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
+ www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/default.aspx?pid=4754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Crit Series
+DTSTART;VALUE=DATE:20171012
+DTEND;VALUE=DATE:20171013
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
+ \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
+ 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
+ les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
+ www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/default.aspx?pid=4754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championship Series - Fall
+DTSTART;VALUE=DATE:20170922
+DTEND;VALUE=DATE:20170923
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
+ \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
+ d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
+ df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
+ com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
+ Cup Event: No\n
+LOCATION:Alkek Velodrome
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championship Series - Fall
+DTSTART;VALUE=DATE:20170929
+DTEND;VALUE=DATE:20170930
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
+ \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
+ d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
+ df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
+ com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
+ Cup Event: No\n
+LOCATION:Alkek Velodrome
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championship Series - Fall
+DTSTART;VALUE=DATE:20171006
+DTEND;VALUE=DATE:20171007
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
+ \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
+ d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
+ df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
+ com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
+ Cup Event: No\n
+LOCATION:Alkek Velodrome
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170922
+DTEND;VALUE=DATE:20170923
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fast Lane Fridays
+DTSTART;VALUE=DATE:20170929
+DTEND;VALUE=DATE:20170930
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
+ \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
+ us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
+ .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
+ .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
+ nt: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atomic Time Trial Series

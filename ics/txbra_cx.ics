@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:SXCX - Cyclocros Scuffle
-DTSTART;VALUE=DATE:20170910
-DTEND;VALUE=DATE:20170911
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=506
- \nRegistration Website: https://www.bikereg.com/36014\nEvent Type: Cyclo-c
- ross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/eve
- nts/getflyer.php?permit=2017-2490\nContact Name: James Sides\nEmail Addres
- s: mailto:james_g_sides@hotmail.com\nEvent Website:  \nTexas Cup Tier: Re
- gion-SXCX\nTexas Cup Event: No\n
-LOCATION:Elgin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/36014
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Southern Elite Cross Training Series
 DTSTART;VALUE=DATE:20170920
 DTEND;VALUE=DATE:20170921

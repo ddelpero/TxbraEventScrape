@@ -1,5 +1,32 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:Fort Hood Road Race
+DTSTART;VALUE=DATE:20170916
+DTEND;VALUE=DATE:20170918
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=471
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
+ tatus: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.
+ php?permit=2017-2454\nContact Name: Andy Hollinger\nEmail Address: mailto:
+ andy@theracingpost.us\nEvent Website: website...\nTexas Cup Tier: Champion
+ ship\nTexas Cup Event: Yes\n
+LOCATION:Fort Hood\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Track on Speed
+DTSTART;VALUE=DATE:20170916
+DTEND;VALUE=DATE:20170917
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=538
+ \nRegistration Website: https://www.bikereg.com/\nEvent Type: Track\nEvent
+  Status: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/2017tracko
+ nspeed.pdf\nContact Name: Myrna Merle\nEmail Address: mailto:mimerle@hotma
+ il.com\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Frisco\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
 DTSTART;VALUE=DATE:20170921
 DTEND;VALUE=DATE:20170922
@@ -99,20 +126,6 @@ URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170915
-DTEND;VALUE=DATE:20170916
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
 DTSTART;VALUE=DATE:20170922
 DTEND;VALUE=DATE:20170923
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
@@ -138,60 +151,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
 LOCATION:Frisco\, TX
 STATUS:Scheduled
 URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Masters Pre-Worlds
-DTSTART;VALUE=DATE:20170909
-DTEND;VALUE=DATE:20170910
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=534
- \nRegistration Website: https://www.bikereg.com/masters\nEvent Type: Track
- \nEvent Status: Scheduled\nEvent Flyer: http:\\\\\nContact Name: Jorge Mer
- le\nEmail Address: mailto:bluefingers50@gmail.com\nEvent Website: www.supe
- rdrome.com\nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/masters
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chappell Hill Bank Classic
-DTSTART;VALUE=DATE:20170910
-DTEND;VALUE=DATE:20170911
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=470
- \nRegistration Website: https://www.usacycling.org/register/2017-2527\nEve
- nt Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacyclin
- g.org/events/getflyer.php?permit=2017-2527\nContact Name: Val Tiemann\nEma
- il Address: mailto:chappellhill@nwcc.bike\nEvent Website: www.chappellhill
- roadrace.com/\nTexas Cup Tier: Elite\nTexas Cup Event: Yes\n
-LOCATION:Chappell Hill\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2527
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fort Hood Road Race
-DTSTART;VALUE=DATE:20170916
-DTEND;VALUE=DATE:20170918
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=471
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.
- php?permit=2017-2454\nContact Name: Andy Hollinger\nEmail Address: mailto:
- andy@theracingpost.us\nEvent Website: website...\nTexas Cup Tier: Champion
- ship\nTexas Cup Event: Yes\n
-LOCATION:Fort Hood\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track on Speed
-DTSTART;VALUE=DATE:20170916
-DTEND;VALUE=DATE:20170917
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=538
- \nRegistration Website: https://www.bikereg.com/\nEvent Type: Track\nEvent
-  Status: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/2017tracko
- nspeed.pdf\nContact Name: Myrna Merle\nEmail Address: mailto:mimerle@hotma
- il.com\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atomic Time Trial Series
