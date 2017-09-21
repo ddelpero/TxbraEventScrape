@@ -1,19 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20170920
-DTEND;VALUE=DATE:20170921
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
 DTSTART;VALUE=DATE:20170927
 DTEND;VALUE=DATE:20170928
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
@@ -137,16 +124,18 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2824
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX - 1 & 2
+SUMMARY:El Norte
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171009
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=525
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
-LOCATION:North TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: http:/\nEvent Type: Cyclo-cross\nEvent Status: Sch
+ eduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit
+ =2017-2723\nContact Name: Bryan Roberts\nEmail Address: mailto:fortworthcx
+ @gmail.com\nEvent Website: www.fortworthcx.com/\nTexas Cup Tier: Region-NT
+ XCX\nTexas Cup Event: No\n
+LOCATION:Haltom City\, TX
+STATUS:Scheduled
+URL:http:/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATXCX - Georgetown Cyclocross Festival

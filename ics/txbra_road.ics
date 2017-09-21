@@ -338,13 +338,14 @@ SUMMARY:The Turkey Climb Time Trial
 DTSTART;VALUE=DATE:20171124
 DTEND;VALUE=DATE:20171125
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=541
- \nRegistration Website:  \nEvent Type: Road\nEvent Status: Tentative\nEve
- nt Flyer: null\nContact Name: Brad Tothabone\nEmail Address: mailto:bububu
- brad@gmail.com\nEvent Website: null\nTexas Cup Tier:  \nTexas Cup Event: 
- No\n
+ \nRegistration Website: https://www.bikereg.com/texas-turkey-climb\nEvent 
+ Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.o
+ rg/events/getflyer.php?permit=2017-2931\nContact Name: Brad Tothabone\nEma
+ il Address: mailto:bubububrad@gmail.com\nEvent Website:  \nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
 LOCATION:Dallas\, TX
-STATUS:Tentative
-URL: 
+STATUS:Scheduled
+URL:https://www.bikereg.com/texas-turkey-climb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Iceman's Ultra Gravel Race and Adventure Pursuit
