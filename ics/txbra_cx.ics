@@ -1,5 +1,35 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:Best Cross
+DTSTART;VALUE=DATE:20170923
+DTEND;VALUE=DATE:20170924
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=537
+ \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
+  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
+ .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
+ il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
+ ebook.com/events/464347523940517/\nTexas Cup Tier:  \nTexas Cup Event: No
+ \n
+LOCATION:San Antonio\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/bestcross2017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX - Best Cross
+DTSTART;VALUE=DATE:20170924
+DTEND;VALUE=DATE:20170925
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
+ \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
+  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
+ .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
+ il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
+ ebook.com/events/464347523940517/\nTexas Cup Tier: Region-SXCX\nTexas Cup 
+ Event: No\n
+LOCATION:San Antonio\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/bestcross2017
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southern Elite Cross Training Series
 DTSTART;VALUE=DATE:20170927
 DTEND;VALUE=DATE:20170928
@@ -65,36 +95,6 @@ STATUS:Scheduled
 URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Best Cross
-DTSTART;VALUE=DATE:20170923
-DTEND;VALUE=DATE:20170924
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=537
- \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
-  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
- il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
- ebook.com/events/464347523940517/\nTexas Cup Tier:  \nTexas Cup Event: No
- \n
-LOCATION:San Antonio\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/bestcross2017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SXCX - Best Cross
-DTSTART;VALUE=DATE:20170924
-DTEND;VALUE=DATE:20170925
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
- \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
-  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
- il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
- ebook.com/events/464347523940517/\nTexas Cup Tier: Region-SXCX\nTexas Cup 
- Event: No\n
-LOCATION:San Antonio\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/bestcross2017
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SXCX - Six Shooter
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171002
@@ -152,14 +152,15 @@ STATUS:Scheduled
 URL:https://info@atxcxcup.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 1 & 2
+SUMMARY:HTXCX - Hilltop Ranch
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171016
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=510
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:Houston\, TX (Hilltop Ranch)
+ \nEvent Flyer: \nContact Name: Bryan Voytilla\nEmail Address: mailto:bryan
+ @kolopromo.com\nEvent Website: \nTexas Cup Tier: Region-HTXCX\nTexas Cup E
+ vent: No\n
+LOCATION:Willis\, TX
 STATUS:Tentative
 URL:
 END:VEVENT
@@ -176,16 +177,18 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 3 & 4
+SUMMARY:HTXCX - Vie13CX @ Millican Reserve
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=511
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: https://www.usacycling.org/register/2017-2978\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2978\nContact Name: Ino Sofja
+ n\nEmail Address: mailto:director@vie13cx.com\nEvent Website: \nTexas Cup 
+ Tier: Region-HTXCX\nTexas Cup Event: No\n
+LOCATION:College Station\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2978
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SXCX - Spooky Cross

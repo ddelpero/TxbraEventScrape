@@ -1,46 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Fort Hood Road Race
-DTSTART;VALUE=DATE:20170916
-DTEND;VALUE=DATE:20170918
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=471
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.
- php?permit=2017-2454\nContact Name: Andy Hollinger\nEmail Address: mailto:
- andy@theracingpost.us\nEvent Website: website...\nTexas Cup Tier: Champion
- ship\nTexas Cup Event: Yes\n
-LOCATION:Fort Hood\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Track on Speed
-DTSTART;VALUE=DATE:20170916
-DTEND;VALUE=DATE:20170917
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=538
- \nRegistration Website: https://www.bikereg.com/\nEvent Type: Track\nEvent
-  Status: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/2017tracko
- nspeed.pdf\nContact Name: Myrna Merle\nEmail Address: mailto:mimerle@hotma
- il.com\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Crit Series
-DTSTART;VALUE=DATE:20170921
-DTEND;VALUE=DATE:20170922
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=479
- \nRegistration Website: https://www.bikereg.com/events/default.aspx?pid=47
- 54\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-1038\nContact Name: Kelley Ab
- les\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Website: 
- www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/default.aspx?pid=4754
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Driveway Crit Series
 DTSTART;VALUE=DATE:20170928
 DTEND;VALUE=DATE:20170929
@@ -83,48 +42,6 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/events/default.aspx?pid=4754
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20170922
-DTEND;VALUE=DATE:20170923
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20170929
-DTEND;VALUE=DATE:20170930
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championship Series - Fall
-DTSTART;VALUE=DATE:20171006
-DTEND;VALUE=DATE:20171007
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=493
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AlkekChampionshipSeriesflyer.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.
- com\nEvent Website: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas 
- Cup Event: No\n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fast Lane Fridays
 DTSTART;VALUE=DATE:20170922
 DTEND;VALUE=DATE:20170923
@@ -151,20 +68,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
 LOCATION:Frisco\, TX
 STATUS:Scheduled
 URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Time Trial Series
-DTSTART;VALUE=DATE:20170923
-DTEND;VALUE=DATE:20170924
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=488
- \nRegistration Website: On-site\nEvent Type: Track\nEvent Status: Schedule
- d\nEvent Flyer: www.txbra.org/db/events/2017AtomicTTSeries.pdf\nContact Na
- me: Doug Evans\nEmail Address: mailto:douglas.r.evans@gmail.com\nEvent Web
- site: http://alkekvelodrome.org/\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Alkek Velodrome
-STATUS:Scheduled
-URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bicycles Inc & FWCX Free Annual CX Clinic
