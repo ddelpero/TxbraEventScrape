@@ -1,48 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Best Cross
-DTSTART;VALUE=DATE:20170923
-DTEND;VALUE=DATE:20170924
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=537
- \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
-  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
- il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
- ebook.com/events/464347523940517/\nTexas Cup Tier:  \nTexas Cup Event: No
- \n
-LOCATION:San Antonio\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/bestcross2017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SXCX - Best Cross
-DTSTART;VALUE=DATE:20170924
-DTEND;VALUE=DATE:20170925
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=507
- \nRegistration Website: https://www.bikereg.com/bestcross2017\nEvent Type:
-  Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-2650\nContact Name: Aaron Nelson\nEma
- il Address: mailto:sa.cyclocross@gmail.com\nEvent Website: https://www.fac
- ebook.com/events/464347523940517/\nTexas Cup Tier: Region-SXCX\nTexas Cup 
- Event: No\n
-LOCATION:San Antonio\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/bestcross2017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20170927
-DTEND;VALUE=DATE:20170928
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Southern Elite Cross Training Series
 DTSTART;VALUE=DATE:20171004
 DTEND;VALUE=DATE:20171005
@@ -152,17 +109,18 @@ STATUS:Scheduled
 URL:https://info@atxcxcup.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - Hilltop Ranch
+SUMMARY:HTXCX 1 & 2 - Hilltop Ranch
 DTSTART;VALUE=DATE:20171014
 DTEND;VALUE=DATE:20171016
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=510
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: Bryan Voytilla\nEmail Address: mailto:bryan
- @kolopromo.com\nEvent Website: \nTexas Cup Tier: Region-HTXCX\nTexas Cup E
- vent: No\n
+ \nRegistration Website: https://www.usacycling.org/register/2017-2727\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2727\nContact Name: Bryan Voy
+ tilla\nEmail Address: mailto:bryan@kolopromo.com\nEvent Website: www.htxgp
+ cx.com\nTexas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Willis\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPoTX - BCRCX
@@ -206,16 +164,18 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2802
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX - 3 & 4
+SUMMARY:NTXCX - The Real Spooky Cross
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=530
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
-LOCATION:North TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: https://www.usacycling.org/register/2017-3004\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-3004\nContact Name: Jeff Luci
+ do\nEmail Address: mailto:info@ntxcx.cx\nEvent Website: www.ntx.cx\nTexas 
+ Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
+LOCATION:McKinney\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-3004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPoTX - Cross of Ages
@@ -292,7 +252,7 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX - 5 & 6
+SUMMARY:NTXCX - 3 & 4
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=526
@@ -376,7 +336,7 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX - 7 & 8
+SUMMARY:NTXCX - 5 & 6
 DTSTART;VALUE=DATE:20171230
 DTEND;VALUE=DATE:20180101
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=527
@@ -395,7 +355,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=521
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
  Texas Cup Tier: Championship\nTexas Cup Event: Yes\n
-LOCATION:Fort Worth\, TX
+LOCATION:Fort Worth\, TX (Trinity Park)
 STATUS:Tentative
 URL:
 END:VEVENT
