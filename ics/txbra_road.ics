@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170929
-DTEND;VALUE=DATE:20170930
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Criterium of the Americas Series
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001

@@ -1,5 +1,19 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:SXCX - Six Shooter
+DTSTART;VALUE=DATE:20170930
+DTEND;VALUE=DATE:20171002
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
+ \nRegistration Website: https://www.usacycling.org/register/2017-2749\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2749\nContact Name: Brett Kin
+ sey\nEmail Address: mailto:brettbk512@gmail.com\nEvent Website: 	\nTexas C
+ up Tier: Region-SXCX\nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2749
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Southern Elite Cross Training Series
 DTSTART;VALUE=DATE:20171004
 DTEND;VALUE=DATE:20171005
@@ -50,20 +64,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SXCX - Six Shooter
-DTSTART;VALUE=DATE:20170930
-DTEND;VALUE=DATE:20171002
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
- \nRegistration Website: https://www.usacycling.org/register/2017-2749\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2749\nContact Name: Brett Kin
- sey\nEmail Address: mailto:brettbk512@gmail.com\nEvent Website: 	\nTexas C
- up Tier: Region-SXCX\nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2749
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SXCX - Gritty Teeth Racing Cyclocross Festival
@@ -149,7 +149,7 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2978
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SXCX - Spooky Cross
+SUMMARY:SXCX - Highlander's Spooky Cross
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529

@@ -1,71 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20171004
-DTEND;VALUE=DATE:20171005
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20171011
-DTEND;VALUE=DATE:20171012
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20171018
-DTEND;VALUE=DATE:20171019
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20171025
-DTEND;VALUE=DATE:20171026
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fast Lane Fridays
-DTSTART;VALUE=DATE:20170929
-DTEND;VALUE=DATE:20170930
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=536
- \nRegistration Website: Online Registration\nEvent Type: Track\nEvent Stat
- us: Scheduled\nEvent Flyer: http://www.txbra.org/db/events/FastLaneFridays
- .pdf\nContact Name: Jorge Merle\nEmail Address: mailto:bluefingers50@gmail
- .com\nEvent Website: www.superdrome.com\nTexas Cup Tier:  \nTexas Cup Eve
- nt: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Criterium of the Americas Series
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001
@@ -206,6 +140,58 @@ STATUS:Scheduled
 URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Southern Elite Cross Training Series
+DTSTART;VALUE=DATE:20171004
+DTEND;VALUE=DATE:20171005
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
+ 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
+ ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Elite Cross Training Series
+DTSTART;VALUE=DATE:20171011
+DTEND;VALUE=DATE:20171012
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
+ 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
+ ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Elite Cross Training Series
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171019
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
+ 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
+ ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Elite Cross Training Series
+DTSTART;VALUE=DATE:20171025
+DTEND;VALUE=DATE:20171026
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
+ 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
+ ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red Bull Last Stand
 DTSTART;VALUE=DATE:20171007
 DTEND;VALUE=DATE:20171008
@@ -303,7 +289,7 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2978
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SXCX - Spooky Cross
+SUMMARY:SXCX - Highlander's Spooky Cross
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
