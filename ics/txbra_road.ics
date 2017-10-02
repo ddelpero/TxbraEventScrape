@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Criterium of the Americas Series
-DTSTART;VALUE=DATE:20170930
-DTEND;VALUE=DATE:20171001
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=500
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.
- php?permit=2017-2025\nContact Name: Kelley Ables\nEmail Address: mailto:ke
- lley.ables@hollandracing.net\nEvent Website: http://drivewayseries.com/\nT
- exas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Emmitt Smith Gran Fondo
 DTSTART;VALUE=DATE:20170930
 DTEND;VALUE=DATE:20171001
@@ -26,20 +12,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=540
 LOCATION:Frisco\, TX
 STATUS:Scheduled
 URL:http://emmittsmithgranfondo.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castroville Time Trials
-DTSTART;VALUE=DATE:20171001
-DTEND;VALUE=DATE:20171002
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=494
- \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
- nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacy
- cling.org/events/getflyer.php?permit=2017-842\nContact Name: Melissa Britt
- on\nEmail Address: mailto:infohcsa@gmail.com\nEvent Website: http://www.hi
- llcountrysa.org/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Castroville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/castrovilletimetrialmarch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
