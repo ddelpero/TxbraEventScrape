@@ -29,20 +29,6 @@ URL:http://emmittsmithgranfondo.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171003
-DTEND;VALUE=DATE:20171004
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
 DTSTART;VALUE=DATE:20171010
 DTEND;VALUE=DATE:20171011
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
@@ -239,12 +225,14 @@ SUMMARY:GPoTX - BCRCX
 DTSTART;VALUE=DATE:20171021
 DTEND;VALUE=DATE:20171023
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=512
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: https://www.usacycling.org/register/2017-2997\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2997\nContact Name: Scott Min
+ ard\nEmail Address: mailto:scottminard@gmail.com\nEvent Website: \nTexas C
+ up Tier: GPoTX\nTexas Cup Event: Yes\n
+LOCATION:Houston\, TX (Brock Park)
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2997
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTXCX - Vie13CX @ Millican Reserve
@@ -276,7 +264,7 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2802
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX - The Real Spooky Cross
+SUMMARY:NTXCX - Spooky Cross
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=530

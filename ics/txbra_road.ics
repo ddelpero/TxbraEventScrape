@@ -15,20 +15,6 @@ URL:http://emmittsmithgranfondo.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171003
-DTEND;VALUE=DATE:20171004
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
 DTSTART;VALUE=DATE:20171010
 DTEND;VALUE=DATE:20171011
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
