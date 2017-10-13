@@ -1,32 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:SXCX - Six Shooter
-DTSTART;VALUE=DATE:20170930
-DTEND;VALUE=DATE:20171002
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=508
- \nRegistration Website: https://www.usacycling.org/register/2017-2749\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2749\nContact Name: Brett Kin
- sey\nEmail Address: mailto:brettbk512@gmail.com\nEvent Website: 	\nTexas C
- up Tier: Region-SXCX\nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2749
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20171011
-DTEND;VALUE=DATE:20171012
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Southern Elite Cross Training Series
 DTSTART;VALUE=DATE:20171018
 DTEND;VALUE=DATE:20171019
@@ -51,35 +24,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SXCX - Gritty Teeth Racing Cyclocross Festival
-DTSTART;VALUE=DATE:20171007
-DTEND;VALUE=DATE:20171009
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=509
- \nRegistration Website: https://www.usacycling.org/register/2017-2824\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2824\nContact Name: Chad Welc
- h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
- //www.grittyteethracing.com/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event
- : No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2824
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Norte
-DTSTART;VALUE=DATE:20171007
-DTEND;VALUE=DATE:20171009
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=525
- \nRegistration Website: http:/\nEvent Type: Cyclo-cross\nEvent Status: Sch
- eduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permit
- =2017-2723\nContact Name: Bryan Roberts\nEmail Address: mailto:fortworthcx
- @gmail.com\nEvent Website: www.fortworthcx.com/\nTexas Cup Tier: Region-NT
- XCX\nTexas Cup Event: No\n
-LOCATION:Haltom City\, TX
-STATUS:Scheduled
-URL:http:/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATXCX - Georgetown Cyclocross Festival
@@ -167,16 +111,18 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-3004
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GPoTX - Cross of Ages
+SUMMARY:GPoTX - Mellow Johnny's Cross of Ages
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171106
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=514
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
-LOCATION:Austin\, TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: www.bikereg.com/capital-city-racing-cyclocross-rac
+ e\nEvent Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://
+ www.usacycling.org/events/getflyer.php?permit=2017-3069\nContact Name: Bre
+ tt Kinsey\nEmail Address: mailto:	brettbk512@gmail.com\nEvent Website: \nT
+ exas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
+LOCATION:Austin\, TX (Richard Moya Park)
+STATUS:Scheduled
+URL:www.bikereg.com/capital-city-racing-cyclocross-race
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATXCX - WurstCross Festival

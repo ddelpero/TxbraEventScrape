@@ -1,33 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Emmitt Smith Gran Fondo
-DTSTART;VALUE=DATE:20170930
-DTEND;VALUE=DATE:20171001
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=540
- \nRegistration Website: http://emmittsmithgranfondo.com/\nEvent Type: Gran
-  Fondo\nEvent Status: Scheduled\nEvent Flyer: http://emmittsmithgranfondo.
- com/\nContact Name: Tanna Wood\nEmail Address: mailto:race.director@wetime
- races.com\nEvent Website: http://emmittsmithgranfondo.com/\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Frisco\, TX
-STATUS:Scheduled
-URL:http://emmittsmithgranfondo.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171010
-DTEND;VALUE=DATE:20171011
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
 DTSTART;VALUE=DATE:20171017
 DTEND;VALUE=DATE:20171018
@@ -84,31 +56,18 @@ STATUS:Scheduled
 URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Red Bull Last Stand
-DTSTART;VALUE=DATE:20171007
-DTEND;VALUE=DATE:20171008
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=472
- \nRegistration Website: https://www.bikereg.com/red-bull-last-stand\nEvent
-  Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.
- org/events/flyer.php?permit=2017-1990\nContact Name: Ravi Rajcoomar\nEmail
-  Address: mailto:redbulllaststand@gmail.com\nEvent Website: https://lastst
- and.splashthat.com/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:San Antonio\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/red-bull-last-stand
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour de Gruene Time Trial
+SUMMARY:Tour de Gruene Bicycle Classic
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171106
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=473
- \nRegistration Website: www...\nEvent Type: Road\nEvent Status: Tentative\
- nEvent Flyer: Flyer...\nContact Name: Will Rotzler\nEmail Address: mailto:
- email...\nEvent Website: website...\nTexas Cup Tier: \nTexas Cup Event: No
+ \nRegistration Website: http://www.tourdegruene.com\nEvent Type: Road\nEve
+ nt Status: Scheduled\nEvent Flyer: http://www.tourdegruene.com\nContact Na
+ me: Will Rotzler\nEmail Address: mailto:wrotzler@tourdegruene.com\nEvent W
+ ebsite: http://www.tourdegruene.com\nTexas Cup Tier: \nTexas Cup Event: No
  \n
 LOCATION:Gruene\, TX
-STATUS:Tentative
-URL:www...
+STATUS:Scheduled
+URL:http://www.tourdegruene.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Turkey Climb Time Trial
