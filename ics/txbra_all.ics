@@ -82,34 +82,6 @@ STATUS:Scheduled
 URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ATXCX - Georgetown Cyclocross Festival
-DTSTART;VALUE=DATE:20171014
-DTEND;VALUE=DATE:20171016
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=504
- \nRegistration Website: https://info@atxcxcup.com\nEvent Type: Cyclo-cross
- \nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/
- getflyer.php?permit=2017-1871\nContact Name: Rolando Roman\nEmail Address:
-  mailto:info@atxcxcup.com\nEvent Website: www.georgetowncyclocrossfestival
- .com\nTexas Cup Tier: Region-ATXCX\nTexas Cup Event: No\n
-LOCATION:Georgetown\, TX
-STATUS:Scheduled
-URL:https://info@atxcxcup.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HTXCX 1 & 2 - Hilltop Ranch
-DTSTART;VALUE=DATE:20171014
-DTEND;VALUE=DATE:20171016
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=510
- \nRegistration Website: https://www.usacycling.org/register/2017-2727\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2727\nContact Name: Bryan Voy
- tilla\nEmail Address: mailto:bryan@kolopromo.com\nEvent Website: www.htxgp
- cx.com\nTexas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:Willis\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2727
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GPoTX - BCRCX
 DTSTART;VALUE=DATE:20171021
 DTEND;VALUE=DATE:20171023
@@ -209,40 +181,46 @@ STATUS:Scheduled
 URL:https://info@atxcxcup.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 5
+SUMMARY:HTXCX - Terra X
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171112
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=515
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:Woodlands\, TX (Terra Mount Park)
-STATUS:Tentative
-URL:
+ \nRegistration Website: https://www.usacycling.org/register/2017-2315\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2315\nContact Name: Bryan Voy
+ tilla\nEmail Address: mailto:bryan@kolopromo.com\nEvent Website: www.htxgp
+ cx.com\nTexas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
+LOCATION:The Woodlands\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2315
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cyntergy Hurtland
+SUMMARY:Cyntergy Hurtland\, a Tulsa Tough Production
 DTSTART;VALUE=DATE:20171112
 DTEND;VALUE=DATE:20171113
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=528
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: hu
- rtlandusa.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+ \nRegistration Website: https://www.bikereg.com/cyntergy-hurtland\nEvent T
+ ype: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacyc
+ ling.org/events/getflyer.php?permit=2017-2957\nContact Name: Brad Spear\nE
+ mail Address: mailto:brad@tulsatough.com\nEvent Website: www.hurtlandusa.c
+ om\nTexas Cup Tier: \nTexas Cup Event: No\n
 LOCATION:Tulsa\, OK
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.bikereg.com/cyntergy-hurtland
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SXCX - Webberville
+SUMMARY:SXCX - Webberville CX Weekend
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=516
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-SXCX\nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: http://www.bikereg.com\nEvent Type: Cyclo-cross\nE
+ vent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/get
+ flyer.php?permit=2017-3098\nContact Name: Brett Kinsey\nEmail Address: mai
+ lto:brettbk512@gmail.com\nEvent Website: www.facebook.com/capitalcityracin
+ gtexas/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event: No\n
+LOCATION:Webberville\, TX
+STATUS:Scheduled
+URL:http://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTXCX - 6
