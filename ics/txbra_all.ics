@@ -15,20 +15,6 @@ URL:https://www.usacycling.org/register/2017-2997
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171024
-DTEND;VALUE=DATE:20171025
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
 DTSTART;VALUE=DATE:20171031
 DTEND;VALUE=DATE:20171101
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
@@ -153,21 +139,6 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2978
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SXCX - Highlander's Spooky Cross
-DTSTART;VALUE=DATE:20171028
-DTEND;VALUE=DATE:20171030
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
- \nRegistration Website: https://www.usacycling.org/register/2017-2802\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2802\nContact Name: Chad Welc
- h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
- //www.grittyteethracing.com/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event
- : No\n
-LOCATION:Waco\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2802
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NTXCX - Spooky Cross
 DTSTART;VALUE=DATE:20171028
 DTEND;VALUE=DATE:20171030
@@ -200,14 +171,15 @@ SUMMARY:GPoTX - Mellow Johnny's Cross of Ages
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171106
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=514
- \nRegistration Website: www.bikereg.com/capital-city-racing-cyclocross-rac
- e\nEvent Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://
- www.usacycling.org/events/getflyer.php?permit=2017-3069\nContact Name: Bre
- tt Kinsey\nEmail Address: mailto:	brettbk512@gmail.com\nEvent Website: \nT
- exas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com/mellow-johnnys-cross-of-ag
+ es\nEvent Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https:/
+ /www.usacycling.org/events/getflyer.php?permit=2017-3069\nContact Name: Br
+ ett Kinsey\nEmail Address: mailto:	brettbk512@gmail.com\nEvent Website: ww
+ w.facebook.com/capitalcityracingtexas/\nTexas Cup Tier: GPoTX\nTexas Cup E
+ vent: Yes\n
 LOCATION:Austin\, TX (Richard Moya Park)
 STATUS:Scheduled
-URL:www.bikereg.com/capital-city-racing-cyclocross-race
+URL:https://www.bikereg.com/mellow-johnnys-cross-of-ages
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATXCX - WurstCross Festival
@@ -256,14 +228,15 @@ SUMMARY:SXCX - Webberville CX Weekend
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=516
- \nRegistration Website: http://www.bikereg.com\nEvent Type: Cyclo-cross\nE
- vent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/get
- flyer.php?permit=2017-3098\nContact Name: Brett Kinsey\nEmail Address: mai
- lto:brettbk512@gmail.com\nEvent Website: www.facebook.com/capitalcityracin
- gtexas/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event: No\n
+ \nRegistration Website: https://www.bikereg.com/webberville-cx-weekend\nEv
+ ent Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.u
+ sacycling.org/events/getflyer.php?permit=2017-3098\nContact Name: Brett Ki
+ nsey\nEmail Address: mailto:brettbk512@gmail.com\nEvent Website: www.faceb
+ ook.com/capitalcityracingtexas/\nTexas Cup Tier: Region-SXCX\nTexas Cup Ev
+ ent: No\n
 LOCATION:Webberville\, TX
 STATUS:Scheduled
-URL:http://www.bikereg.com
+URL:https://www.bikereg.com/webberville-cx-weekend
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTXCX - 6
@@ -342,6 +315,21 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=519
 LOCATION:Houston\, TX (Marina)
 STATUS:Tentative
 URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX - Highlander's Spooky Cross
+DTSTART;VALUE=DATE:20171202
+DTEND;VALUE=DATE:20171204
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
+ \nRegistration Website: https://www.usacycling.org/register/2017-2802\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2802\nContact Name: Chad Welc
+ h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
+ //www.grittyteethracing.com/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event
+ : No\n
+LOCATION:Waco\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPoTX - Resolution Cup
