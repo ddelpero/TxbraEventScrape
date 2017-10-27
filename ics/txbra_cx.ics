@@ -14,33 +14,6 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-2997
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Southern Elite Cross Training Series
-DTSTART;VALUE=DATE:20171025
-DTEND;VALUE=DATE:20171026
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=539
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/flyer.php?permit=2
- 017-2771\nContact Name: Scott Schaefer\nEmail Address: mailto:mtbscott@swb
- ell.net\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171025
-DTEND;VALUE=DATE:20171026
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creek Cross Race Series
 DTSTART;VALUE=DATE:20171101
 DTEND;VALUE=DATE:20171102
@@ -247,7 +220,7 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SXCX - Highlander's Spooky Cross
+SUMMARY:SXCX - Waco Wonderland CX Challenge
 DTSTART;VALUE=DATE:20171202
 DTEND;VALUE=DATE:20171204
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
