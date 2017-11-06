@@ -1,17 +1,17 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171031
-DTEND;VALUE=DATE:20171101
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
+SUMMARY:Tour de Gruene Bicycle Classic
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171106
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=473
+ \nRegistration Website: http://www.tourdegruene.com\nEvent Type: Road\nEve
+ nt Status: Scheduled\nEvent Flyer: http://www.tourdegruene.com\nContact Na
+ me: Will Rotzler\nEmail Address: mailto:wrotzler@tourdegruene.com\nEvent W
+ ebsite: http://www.tourdegruene.com\nTexas Cup Tier: \nTexas Cup Event: No
+ \n
+LOCATION:Gruene\, TX
 STATUS:Scheduled
-URL:Online Registration
+URL:http://www.tourdegruene.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FWCX CXPOSE Series
@@ -26,20 +26,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
 LOCATION:Fort Worth\, TX
 STATUS:Scheduled
 URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour de Gruene Bicycle Classic
-DTSTART;VALUE=DATE:20171104
-DTEND;VALUE=DATE:20171106
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=473
- \nRegistration Website: http://www.tourdegruene.com\nEvent Type: Road\nEve
- nt Status: Scheduled\nEvent Flyer: http://www.tourdegruene.com\nContact Na
- me: Will Rotzler\nEmail Address: mailto:wrotzler@tourdegruene.com\nEvent W
- ebsite: http://www.tourdegruene.com\nTexas Cup Tier: \nTexas Cup Event: No
- \n
-LOCATION:Gruene\, TX
-STATUS:Scheduled
-URL:http://www.tourdegruene.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Turkey Climb Time Trial

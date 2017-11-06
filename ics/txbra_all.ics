@@ -1,61 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:GPoTX - BCRCX
-DTSTART;VALUE=DATE:20171021
-DTEND;VALUE=DATE:20171023
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=512
- \nRegistration Website: https://www.usacycling.org/register/2017-2997\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2997\nContact Name: Scott Min
- ard\nEmail Address: mailto:scottminard@gmail.com\nEvent Website: \nTexas C
- up Tier: GPoTX\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Brock Park)
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2997
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171031
-DTEND;VALUE=DATE:20171101
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171107
-DTEND;VALUE=DATE:20171108
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171101
-DTEND;VALUE=DATE:20171102
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creek Cross Race Series
 DTSTART;VALUE=DATE:20171115
 DTEND;VALUE=DATE:20171116
@@ -98,34 +42,6 @@ STATUS:Scheduled
 URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - Vie13CX @ Millican Reserve
-DTSTART;VALUE=DATE:20171028
-DTEND;VALUE=DATE:20171030
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=511
- \nRegistration Website: https://www.usacycling.org/register/2017-2978\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2978\nContact Name: Ino Sofja
- n\nEmail Address: mailto:director@vie13cx.com\nEvent Website: \nTexas Cup 
- Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:College Station\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2978
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NTXCX - Spooky Cross
-DTSTART;VALUE=DATE:20171028
-DTEND;VALUE=DATE:20171030
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=530
- \nRegistration Website: https://www.usacycling.org/register/2017-3004\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-3004\nContact Name: Jeff Luci
- do\nEmail Address: mailto:info@ntxcx.cx\nEvent Website: www.ntx.cx\nTexas 
- Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-3004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tour de Gruene Bicycle Classic
 DTSTART;VALUE=DATE:20171104
 DTEND;VALUE=DATE:20171106
@@ -153,6 +69,20 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=514
 LOCATION:Austin\, TX (Richard Moya Park)
 STATUS:Scheduled
 URL:https://www.bikereg.com/mellow-johnnys-cross-of-ages
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXPOSE Series
+DTSTART;VALUE=DATE:20171107
+DTEND;VALUE=DATE:20171108
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
+ \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
+  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
+ r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
+ :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
+ :  \nTexas Cup Event: No\n
+LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:Online Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATXCX - WurstCross Festival
