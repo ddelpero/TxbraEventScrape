@@ -1,90 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171115
-DTEND;VALUE=DATE:20171116
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171129
-DTEND;VALUE=DATE:20171130
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171206
-DTEND;VALUE=DATE:20171207
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour de Gruene Bicycle Classic
-DTSTART;VALUE=DATE:20171104
-DTEND;VALUE=DATE:20171106
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=473
- \nRegistration Website: http://www.tourdegruene.com\nEvent Type: Road\nEve
- nt Status: Scheduled\nEvent Flyer: http://www.tourdegruene.com\nContact Na
- me: Will Rotzler\nEmail Address: mailto:wrotzler@tourdegruene.com\nEvent W
- ebsite: http://www.tourdegruene.com\nTexas Cup Tier: \nTexas Cup Event: No
- \n
-LOCATION:Gruene\, TX
-STATUS:Scheduled
-URL:http://www.tourdegruene.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GPoTX - Mellow Johnny's Cross of Ages
-DTSTART;VALUE=DATE:20171104
-DTEND;VALUE=DATE:20171106
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=514
- \nRegistration Website: https://www.bikereg.com/mellow-johnnys-cross-of-ag
- es\nEvent Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https:/
- /www.usacycling.org/events/getflyer.php?permit=2017-3069\nContact Name: Br
- ett Kinsey\nEmail Address: mailto:	brettbk512@gmail.com\nEvent Website: ww
- w.facebook.com/capitalcityracingtexas/\nTexas Cup Tier: GPoTX\nTexas Cup E
- vent: Yes\n
-LOCATION:Austin\, TX (Richard Moya Park)
-STATUS:Scheduled
-URL:https://www.bikereg.com/mellow-johnnys-cross-of-ages
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FWCX CXPOSE Series
-DTSTART;VALUE=DATE:20171107
-DTEND;VALUE=DATE:20171108
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=531
- \nRegistration Website: Online Registration\nEvent Type: Cyclocross\nEvent
-  Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/getflye
- r.php?permit=2017-2561\nContact Name: Bryan Roberts\nEmail Address: mailto
- :fortworthcx@gmail.com\nEvent Website: www.fortworthcx.com\nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:Online Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ATXCX - WurstCross Festival
 DTSTART;VALUE=DATE:20171111
 DTEND;VALUE=DATE:20171113
@@ -127,6 +42,48 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/cyntergy-hurtland
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Creek Cross Race Series
+DTSTART;VALUE=DATE:20171115
+DTEND;VALUE=DATE:20171116
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
+ t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
+ .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
+ n
+LOCATION:Garland\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Race Series
+DTSTART;VALUE=DATE:20171129
+DTEND;VALUE=DATE:20171130
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
+ t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
+ .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
+ n
+LOCATION:Garland\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Race Series
+DTSTART;VALUE=DATE:20171206
+DTEND;VALUE=DATE:20171207
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
+ \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
+ heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
+ t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
+ .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
+ n
+LOCATION:Garland\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SXCX - Webberville CX Weekend
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
@@ -142,28 +99,32 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/webberville-cx-weekend
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 6
+SUMMARY:HTXCX - HauteX
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171119
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=517
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
+ \nRegistration Website: https://www.usacycling.org/register/2017-2728\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-2728\nContact Name: Bryan Voy
+ tilla\nEmail Address: mailto:bryan@kolopromo.com\nEvent Website: http://ht
+ xgpcx.com/\nTexas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-2728
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX - 3 & 4
+SUMMARY:NTXCX - Cornucopia of Cross
 DTSTART;VALUE=DATE:20171118
 DTEND;VALUE=DATE:20171120
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=526
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
-LOCATION:North TX
-STATUS:Tentative
-URL:
+ \nRegistration Website: https://www.usacycling.org/register/2017-3146\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-3146\nContact Name: Jeff Luci
+ do\nEmail Address: mailto:events@ntx.cx\nEvent Website: www.ntx.cx\nTexas 
+ Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
+LOCATION:Sherman\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-3146
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Turkey Climb Time Trial
@@ -271,13 +232,13 @@ STATUS:Tentative
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Houston Age Champs
+SUMMARY:HTXCX - Houston Age Champs
 DTSTART;VALUE=DATE:20171217
 DTEND;VALUE=DATE:20171218
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=524
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: Yes\n
+ Texas Cup Tier: Region-East\nTexas Cup Event: No\n
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
