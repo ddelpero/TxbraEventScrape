@@ -1,61 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:ATXCX - WurstCross Festival
-DTSTART;VALUE=DATE:20171111
-DTEND;VALUE=DATE:20171113
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=505
- \nRegistration Website: https://info@atxcxcup.com\nEvent Type: Cyclo-cross
- \nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org/events/
- getflyer.php?permit=2017-1872\nContact Name: Rolando Roman\nEmail Address:
-  mailto:info@atxcxcup.com\nEvent Website: www.atxcxcup.com/wurstcross-cycl
- ocross\nTexas Cup Tier: Region-ATXCX\nTexas Cup Event: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://info@atxcxcup.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HTXCX - Terra X
-DTSTART;VALUE=DATE:20171111
-DTEND;VALUE=DATE:20171112
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=515
- \nRegistration Website: https://www.usacycling.org/register/2017-2315\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2315\nContact Name: Bryan Voy
- tilla\nEmail Address: mailto:bryan@kolopromo.com\nEvent Website: www.htxgp
- cx.com\nTexas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:The Woodlands\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2315
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cyntergy Hurtland\, a Tulsa Tough Production
-DTSTART;VALUE=DATE:20171112
-DTEND;VALUE=DATE:20171113
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=528
- \nRegistration Website: https://www.bikereg.com/cyntergy-hurtland\nEvent T
- ype: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacyc
- ling.org/events/getflyer.php?permit=2017-2957\nContact Name: Brad Spear\nE
- mail Address: mailto:brad@tulsatough.com\nEvent Website: www.hurtlandusa.c
- om\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Tulsa\, OK
-STATUS:Scheduled
-URL:https://www.bikereg.com/cyntergy-hurtland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171115
-DTEND;VALUE=DATE:20171116
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creek Cross Race Series
 DTSTART;VALUE=DATE:20171129
 DTEND;VALUE=DATE:20171130
@@ -141,6 +85,20 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/texas-turkey-climb
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sutherland Springs Benefit Gravel Ride
+DTSTART;VALUE=DATE:20171126
+DTEND;VALUE=DATE:20171127
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=543
+ \nRegistration Website: https://www.bikereg.com/sutherland-springs\nEvent 
+ Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
+ .org/events/getflyer.php?permit=2017-3165\nContact Name: Brett Kinsey\nEma
+ il Address: mailto:brettbk512@gmail.com\nEvent Website: www.facebook.com/c
+ apitalcityracingtexas/\nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Stockdale\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/sutherland-springs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ruts and Guts
 DTSTART;VALUE=DATE:20171201
 DTEND;VALUE=DATE:20171203
@@ -169,18 +127,6 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/icemans-challenge-gravel-pursuit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTXCX - 7 & 8
-DTSTART;VALUE=DATE:20171202
-DTEND;VALUE=DATE:20171204
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=519
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:Houston\, TX (Marina)
-STATUS:Tentative
-URL:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SXCX - Waco Wonderland CX Challenge
 DTSTART;VALUE=DATE:20171202
 DTEND;VALUE=DATE:20171204
@@ -198,14 +144,30 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPoTX - Resolution Cup
 DTSTART;VALUE=DATE:20171209
-DTEND;VALUE=DATE:20171211
+DTEND;VALUE=DATE:20171210
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=518
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: GPoTX\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.usacycling.org/register/2017-3148\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-3148\nContact Name: Jeff Luci
+ do\nEmail Address: mailto:events@ntx.cx\nEvent Website: www.ntx.cx\nTexas 
+ Cup Tier: GPoTX\nTexas Cup Event: Yes\n
 LOCATION:Garland\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-3148
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTXCX - Resolution Cup
+DTSTART;VALUE=DATE:20171210
+DTEND;VALUE=DATE:20171211
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=544
+ \nRegistration Website: https://www.usacycling.org/register/2017-3148\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-3148\nContact Name: Jeff Luci
+ do\nEmail Address: mailto:events@ntx.cx\nEvent Website: www.ntx.cx\nTexas 
+ Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
+LOCATION:Garland\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-3148
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTXCX - Series Final
@@ -274,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USA Cycling National Cyclo-Cross Championships
 DTSTART;VALUE=DATE:20180109
-DTEND;VALUE=DATE:20180116
+DTEND;VALUE=DATE:20180115
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=523
  \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
  \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n

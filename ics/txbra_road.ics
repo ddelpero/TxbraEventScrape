@@ -14,6 +14,20 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/texas-turkey-climb
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sutherland Springs Benefit Gravel Ride
+DTSTART;VALUE=DATE:20171126
+DTEND;VALUE=DATE:20171127
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=543
+ \nRegistration Website: https://www.bikereg.com/sutherland-springs\nEvent 
+ Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
+ .org/events/getflyer.php?permit=2017-3165\nContact Name: Brett Kinsey\nEma
+ il Address: mailto:brettbk512@gmail.com\nEvent Website: www.facebook.com/c
+ apitalcityracingtexas/\nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Stockdale\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/sutherland-springs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Iceman's Ultra Gravel Race and Adventure Pursuit
 DTSTART;VALUE=DATE:20171202
 DTEND;VALUE=DATE:20171203
