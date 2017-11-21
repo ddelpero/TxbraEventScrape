@@ -41,4 +41,220 @@ LOCATION:TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/icemans-challenge-gravel-pursuit
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oatmeal Road Race
+DTSTART;VALUE=DATE:20180120
+DTEND;VALUE=DATE:20180121
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=545
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Holland Racing\nEmail Address: mailto:
+ \nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Oatmeal\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davey Crockett Classic
+DTSTART;VALUE=DATE:20180210
+DTEND;VALUE=DATE:20180212
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=546
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Alex Montoya\nEmail Address: mailto:\n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour of New Braunfels
+DTSTART;VALUE=DATE:20180217
+DTEND;VALUE=DATE:20180219
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=547
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Aaron Nelson\nEmail Address: mailto:\n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace Bend Road Race
+DTSTART;VALUE=DATE:20180224
+DTEND;VALUE=DATE:20180226
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=548
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Will Ross\nEmail Address: mailto:\nEve
+ nt Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Spicewood\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Primavera @ Lago Vista
+DTSTART;VALUE=DATE:20180303
+DTEND;VALUE=DATE:20180305
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=549
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Don Hutchison\nEmail Address: mailto:\
+ nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Lago Vista\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fayetteville Road Race
+DTSTART;VALUE=DATE:20180311
+DTEND;VALUE=DATE:20180312
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=550
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: James McCowen\nEmail Address: mailto:\
+ nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:FAyetteville\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Greune Time Trial
+DTSTART;VALUE=DATE:20180317
+DTEND;VALUE=DATE:20180318
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=551
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Will Rotzler\nEmail Address: mailto:\n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Gruene\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corsicana Stage Race
+DTSTART;VALUE=DATE:20180324
+DTEND;VALUE=DATE:20180326
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=552
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Zac Lytle\nEmail Address: mailto:\nEve
+ nt Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Corsicana\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matrix Challenge
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180416
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=553
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Jeff Lucido\nEmail Address: mailto:\nE
+ vent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Dallas\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wimberly Road Race
+DTSTART;VALUE=DATE:20180421
+DTEND;VALUE=DATE:20180423
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=554
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert STrickland\nEmail Address: mail
+ to:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Wimberly\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hammerfest
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180430
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=555
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Peri Mashburn\nEmail Address: mailto:\
+ nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Fort David\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State Time Trial Championships
+DTSTART;VALUE=DATE:20180519
+DTEND;VALUE=DATE:20180521
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=556
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Ino Sofjan\nEmail Address: mailto:\nEv
+ ent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike the Bricks
+DTSTART;VALUE=DATE:20180525
+DTEND;VALUE=DATE:20180526
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=557
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Bryan Perkins\nEmail Address: mailto:\
+ nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:McKinney\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tupps Race
+DTSTART;VALUE=DATE:20180526
+DTEND;VALUE=DATE:20180527
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=562
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Jeff Lucido\nEmail Address: mailto:\nE
+ vent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:McKinney\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hotter 'n Hell
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180827
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=558
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Charlie Zamastil\nEmail Address: mailt
+ o:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Wichita Falls\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chappell Hill Road Race
+DTSTART;VALUE=DATE:20180909
+DTEND;VALUE=DATE:20180910
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=559
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Val Tiemann\nEmail Address: mailto:\nE
+ vent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Chappell Hill\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State Road Race Championships
+DTSTART;VALUE=DATE:20180915
+DTEND;VALUE=DATE:20180917
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=560
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Andy Hollinger\nEmail Address: mailto:
+ \nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Fort Hood\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Texas Omnium
+DTSTART;VALUE=DATE:20180922
+DTEND;VALUE=DATE:20180924
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=561
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: David Hernandez\nEmail Address: mailto
+ :\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Longview\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
 END:VCALENDAR

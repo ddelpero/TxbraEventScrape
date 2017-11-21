@@ -28,49 +28,6 @@ STATUS:Scheduled
 URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SXCX - Webberville CX Weekend
-DTSTART;VALUE=DATE:20171118
-DTEND;VALUE=DATE:20171120
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=516
- \nRegistration Website: https://www.bikereg.com/webberville-cx-weekend\nEv
- ent Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.u
- sacycling.org/events/getflyer.php?permit=2017-3098\nContact Name: Brett Ki
- nsey\nEmail Address: mailto:brettbk512@gmail.com\nEvent Website: www.faceb
- ook.com/capitalcityracingtexas/\nTexas Cup Tier: Region-SXCX\nTexas Cup Ev
- ent: No\n
-LOCATION:Webberville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/webberville-cx-weekend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HTXCX - HauteX
-DTSTART;VALUE=DATE:20171118
-DTEND;VALUE=DATE:20171119
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=517
- \nRegistration Website: https://www.usacycling.org/register/2017-2728\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2728\nContact Name: Bryan Voy
- tilla\nEmail Address: mailto:bryan@kolopromo.com\nEvent Website: http://ht
- xgpcx.com/\nTexas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2728
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NTXCX - Cornucopia of Cross
-DTSTART;VALUE=DATE:20171118
-DTEND;VALUE=DATE:20171120
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=526
- \nRegistration Website: https://www.usacycling.org/register/2017-3146\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-3146\nContact Name: Jeff Luci
- do\nEmail Address: mailto:events@ntx.cx\nEvent Website: www.ntx.cx\nTexas 
- Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
-LOCATION:Sherman\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-3146
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ruts and Guts
 DTSTART;VALUE=DATE:20171201
 DTEND;VALUE=DATE:20171203
