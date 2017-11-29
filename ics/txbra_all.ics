@@ -1,33 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:The Turkey Climb Time Trial
-DTSTART;VALUE=DATE:20171124
-DTEND;VALUE=DATE:20171125
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=541
- \nRegistration Website: https://www.bikereg.com/texas-turkey-climb\nEvent 
- Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.o
- rg/events/getflyer.php?permit=2017-2931\nContact Name: Brad Tothabone\nEma
- il Address: mailto:bubububrad@gmail.com\nEvent Website:  \nTexas Cup Tier
- :  \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/texas-turkey-climb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sutherland Springs Benefit Gravel Ride
-DTSTART;VALUE=DATE:20171126
-DTEND;VALUE=DATE:20171127
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=543
- \nRegistration Website: https://www.bikereg.com/sutherland-springs\nEvent 
- Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling
- .org/events/getflyer.php?permit=2017-3165\nContact Name: Brett Kinsey\nEma
- il Address: mailto:brettbk512@gmail.com\nEvent Website: www.facebook.com/c
- apitalcityracingtexas/\nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Stockdale\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/sutherland-springs
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creek Cross Race Series
 DTSTART;VALUE=DATE:20171129
 DTEND;VALUE=DATE:20171130
@@ -137,6 +109,20 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=513
 LOCATION:Houston\, TX
 STATUS:Tentative
 URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX - Mr. Jimmy's Butter Cross
+DTSTART;VALUE=DATE:20171216
+DTEND;VALUE=DATE:20171218
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=520
+ \nRegistration Website: https://www.usacycling.org/register/2017-3149\nEve
+ nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
+ acycling.org/events/getflyer.php?permit=2017-3149\nContact Name: Jeff Luci
+ do\nEmail Address: mailto:events@ntx.cx\nEvent Website: \nTexas Cup Tier: 
+ Region-SXCX\nTexas Cup Event: No\n
+LOCATION:Fredericksburg\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2017-3149
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTXCX - Houston Age Champs
