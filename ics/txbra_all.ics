@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171129
-DTEND;VALUE=DATE:20171130
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
 DTSTART;VALUE=DATE:20171206
 DTEND;VALUE=DATE:20171207
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
@@ -151,15 +137,17 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-3150
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CX State Championships
+SUMMARY:Cyclo-cross State Championshps
 DTSTART;VALUE=DATE:20180106
 DTEND;VALUE=DATE:20180108
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=521
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Championship\nTexas Cup Event: Yes\n
+ \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-203\nContact Name: Bryan Roberts\nEmail Address: mailto:fortworthcx@gma
+ il.com\nEvent Website: http://www.fortworthcx.com/tx-state-championship.ht
+ ml\nTexas Cup Tier: Championship\nTexas Cup Event: Yes\n
 LOCATION:Fort Worth\, TX (Trinity Park)
-STATUS:Tentative
+STATUS:Scheduled
 URL:
 END:VEVENT
 BEGIN:VEVENT
