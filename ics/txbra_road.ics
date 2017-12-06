@@ -14,6 +14,20 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/icemans-challenge-gravel-pursuit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pretty Good Cross
+DTSTART;VALUE=DATE:20171230
+DTEND;VALUE=DATE:20180101
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=563
+ \nRegistration Website: https://www.bikereg.com/pgcx\nEvent Type: Cyclo-Cr
+ oss\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/e
+ vents/getflyer.php?permit=2017-3179\nContact Name: Aaron Nelson\nEmail Add
+ ress: mailto:jellyandjamracing@gmail.com\nEvent Website: https://www.faceb
+ ook.com/events/308524852995850/\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:San Antonio\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pgcx
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oatmeal Road Race
 DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121

@@ -73,14 +73,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTXCX - Series Final
 DTSTART;VALUE=DATE:20171216
-DTEND;VALUE=DATE:20171217
+DTEND;VALUE=DATE:20171218
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=513
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-HTXCX\nTexas Cup Event: No\n
+ \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
+ ename=registration&eventid=2729&year=2017\nEvent Type: Cyclo-cross\nEvent 
+ Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
+ yer.php?permit=2017-2729\nContact Name: Bryan Voytilla\nEmail Address: mai
+ lto:bryan@kolopromo.com\nEvent Website: www.htxgpcx.com\nTexas Cup Tier: R
+ egion-HTXCX\nTexas Cup Event: No\n
 LOCATION:Houston\, TX
-STATUS:Tentative
-URL:
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
+ ventid=2729&year=2017
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SXCX - Mr. Jimmy's Butter Cross
@@ -95,18 +99,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=520
 LOCATION:Fredericksburg\, TX
 STATUS:Scheduled
 URL:https://www.usacycling.org/register/2017-3149
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HTXCX - Houston Age Champs
-DTSTART;VALUE=DATE:20171217
-DTEND;VALUE=DATE:20171218
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=524
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Tentative
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: Region-East\nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Tentative
-URL:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NTXCX - Cross NYE
