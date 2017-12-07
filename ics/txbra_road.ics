@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Iceman's Ultra Gravel Race and Adventure Pursuit
-DTSTART;VALUE=DATE:20171202
-DTEND;VALUE=DATE:20171203
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=475
- \nRegistration Website: https://www.bikereg.com/icemans-challenge-gravel-p
- ursuit\nEvent Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://
- www.usacycling.org/events/flyer.php?permit=2017-2842\nContact Name: Don Ic
- kles\nEmail Address: mailto:Don.Ickles@icloud.com\nEvent Website: www.icem
- anschallenge.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/icemans-challenge-gravel-pursuit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pretty Good Cross
 DTSTART;VALUE=DATE:20171230
 DTEND;VALUE=DATE:20180101
@@ -28,16 +14,32 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/pgcx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oatmeal Road Race
+SUMMARY:Tommy Ketterhagen Memorial Road Race
 DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=545
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Holland Racing\nEmail Address: mailto:
- \nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
+ tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
+ er.php?permit=2018-286\nContact Name: Holland Racing\nEmail Address: mailt
+ o:kelley.ables@hollandracing.net\nEvent Website: www.hollandracing.net\nTe
+ xas Cup Tier: State\nTexas Cup Event: Yes\n
 LOCATION:Oatmeal\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:https://www.bikereg.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tommy Ketterhagen Memorial Ride
+DTSTART;VALUE=DATE:20180120
+DTEND;VALUE=DATE:20180121
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=564
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
+ tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
+ er.php?permit=2018-366\nContact Name: Holland Racing\nEmail Address: mailt
+ o:kelley.ables@hollandracing.net\nEvent Website: www.hollandracing.net\nTe
+ xas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Oatmeal\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Davey Crockett Classic

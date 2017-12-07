@@ -1,48 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Creek Cross Race Series
-DTSTART;VALUE=DATE:20171206
-DTEND;VALUE=DATE:20171207
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=542
- \nRegistration Website: On-site\nEvent Type: Cyclo-cross\nEvent Status: Sc
- heduled\nEvent Flyer: https://www.usacycling.org/events/getflyer.php?permi
- t=2017-3104\nContact Name: Jeff Lucido\nEmail Address: mailto:events@texas
- .cx\nEvent Website: www.texas.cx\nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Garland\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruts and Guts
-DTSTART;VALUE=DATE:20171201
-DTEND;VALUE=DATE:20171203
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=522
- \nRegistration Website: https://www.bikereg.com/rutsnguts\nEvent Type: Cyc
- lo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.usacycling.org
- /events/getflyer.php?permit=2017-3009\nContact Name: Tanner Culbreath\nEma
- il Address: mailto:rutsnguts@gmail.com\nEvent Website: https://www.faceboo
- k.com/RutsnGuts/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Broken Arrow\, OK
-STATUS:Scheduled
-URL:https://www.bikereg.com/rutsnguts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SXCX - Waco Wonderland CX Challenge
-DTSTART;VALUE=DATE:20171202
-DTEND;VALUE=DATE:20171204
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=529
- \nRegistration Website: https://www.usacycling.org/register/2017-2802\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-2802\nContact Name: Chad Welc
- h\nEmail Address: mailto:grittyteethracing@gmail.com\nEvent Website: http:
- //www.grittyteethracing.com/\nTexas Cup Tier: Region-SXCX\nTexas Cup Event
- : No\n
-LOCATION:Waco\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-2802
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GPoTX - Resolution Cup
 DTSTART;VALUE=DATE:20171209
 DTEND;VALUE=DATE:20171210
