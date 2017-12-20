@@ -42,6 +42,18 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cedar Hill
+DTSTART;VALUE=DATE:20180203
+DTEND;VALUE=DATE:20180205
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=566
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Andrew Armstrong\nEmail Address: mailt
+ o:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: ???\n
+LOCATION:Dallas\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Davey Crockett Classic
 DTSTART;VALUE=DATE:20180210
 DTEND;VALUE=DATE:20180212
@@ -126,6 +138,18 @@ STATUS:Tentative
 URL:www....
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jesuit Ranger Roundup
+DTSTART;VALUE=DATE:20180408
+DTEND;VALUE=DATE:20180409
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=567
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Andrew Armstrong\nEmail Address: mailt
+ o:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: ???\n
+LOCATION:Dallas\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Matrix Challenge
 DTSTART;VALUE=DATE:20180414
 DTEND;VALUE=DATE:20180416
@@ -158,6 +182,18 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=555
  \nEvent Flyer: Flyer\nContact Name: Peri Mashburn\nEmail Address: mailto:\
  nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
 LOCATION:Fort David\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Grand Crit
+DTSTART;VALUE=DATE:20180506
+DTEND;VALUE=DATE:20180507
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=565
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Lee Nethery\nEmail Address: mailto:\nE
+ vent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Houston\, TX
 STATUS:Tentative
 URL:www....
 END:VEVENT
