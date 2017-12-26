@@ -88,7 +88,7 @@ DTEND;VALUE=DATE:20180205
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=566
  \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
  \nEvent Flyer: Flyer\nContact Name: Andrew Armstrong\nEmail Address: mailt
- o:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: ???\n
+ o:\nEvent Website: website\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
 LOCATION:Dallas\, TX
 STATUS:Tentative
 URL:www....
@@ -118,16 +118,33 @@ STATUS:Tentative
 URL:www....
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pace Bend Road Race
+SUMMARY:Pace Bend Weekend
 DTSTART;VALUE=DATE:20180224
 DTEND;VALUE=DATE:20180226
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=548
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Will Ross\nEmail Address: mailto:\nEve
- nt Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ \nRegistration Website: www.bikereg.com\nEvent Type: Road\nEvent Status: S
+ cheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?p
+ ermit=2018-387\nContact Name: Will Ross\nEmail Address: mailto:will@bonesh
+ aker.org\nEvent Website: www.boneshaker.org/pace-bend-2018/\nTexas Cup Tie
+ r: Elite\nTexas Cup Event: Yes\n
 LOCATION:Spicewood\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:www.bikereg.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ExxonMobil Heads or Tails Cycling Time Trial
+DTSTART;VALUE=DATE:20180303
+DTEND;VALUE=DATE:20180304
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=440
+ \nRegistration Website: https://www.usacycling.org/register/2018-429\nEven
+ t Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycl
+ ing.org/events/getflyer.php?permit=2018-429\nContact Name: Richard James\n
+ Email Address: mailto:richard@thegushermarathon.com\nEvent Website: http:/
+ /www.sportssocietyforamericanhealth.org/\nTexas Cup Tier: Region\nTexas Cu
+ p Event: Yes\n
+LOCATION:Beaumont\, TX
+STATUS:Scheduled
+URL:https://www.usacycling.org/register/2018-429
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Primavera @ Lago Vista
