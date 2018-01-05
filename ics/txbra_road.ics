@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Pretty Good Cross
-DTSTART;VALUE=DATE:20171230
-DTEND;VALUE=DATE:20180101
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=563
- \nRegistration Website: https://www.bikereg.com/pgcx\nEvent Type: Cyclo-Cr
- oss\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/e
- vents/getflyer.php?permit=2017-3179\nContact Name: Aaron Nelson\nEmail Add
- ress: mailto:jellyandjamracing@gmail.com\nEvent Website: https://www.faceb
- ook.com/events/308524852995850/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:San Antonio\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pgcx
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tommy Ketterhagen Memorial Road Race
 DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121
@@ -42,28 +28,32 @@ STATUS:Scheduled
 URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cedar Hill
+SUMMARY:Cedar Hill Race Festival
 DTSTART;VALUE=DATE:20180203
 DTEND;VALUE=DATE:20180205
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=566
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Andrew Armstrong\nEmail Address: mailt
- o:\nEvent Website: website\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com/cedar-hill-race-festival\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/getflyer.php?permit=2018-444\nContact Name: Andrew Arms
+ trong\nEmail Address: mailto:aparmstrong@gmail.com\nEvent Website: www.ced
+ arhillracefestival.org\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
 LOCATION:Dallas\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:https://www.bikereg.com/cedar-hill-race-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Davey Crockett Classic
 DTSTART;VALUE=DATE:20180210
 DTEND;VALUE=DATE:20180212
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=546
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Alex Montoya\nEmail Address: mailto:\n
- Event Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ \nRegistration Website: https://www.bikereg.com/davy-crockett-classic\nEve
+ nt Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacyc
+ ling.org/events/getflyer.php?permit=2018-238\nContact Name: Alex Montoya\n
+ Email Address: mailto:alexander@localbikeracing.com\nEvent Website: localb
+ ikeracing.com\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
 LOCATION:
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:https://www.bikereg.com/davy-crockett-classic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour of New Braunfels

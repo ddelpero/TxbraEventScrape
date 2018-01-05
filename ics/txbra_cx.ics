@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:NTXCX - Cross NYE
-DTSTART;VALUE=DATE:20171230
-DTEND;VALUE=DATE:20180101
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=527
- \nRegistration Website: https://www.usacycling.org/register/2017-3150\nEve
- nt Type: Cyclo-cross\nEvent Status: Scheduled\nEvent Flyer: https://www.us
- acycling.org/events/getflyer.php?permit=2017-3150\nContact Name: Jeff Luci
- do\nEmail Address: mailto:events@ntx.cx\nEvent Website: www.ntx.cx\nTexas 
- Cup Tier: Region-NTXCX\nTexas Cup Event: No\n
-LOCATION:Rockwall\, TX
-STATUS:Scheduled
-URL:https://www.usacycling.org/register/2017-3150
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cyclo-cross State Championshps
 DTSTART;VALUE=DATE:20180106
 DTEND;VALUE=DATE:20180108
