@@ -1,31 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Cyclo-cross State Championshps
-DTSTART;VALUE=DATE:20180106
-DTEND;VALUE=DATE:20180108
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=521
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-203\nContact Name: Bryan Roberts\nEmail Address: mailto:fortworthcx@gma
- il.com\nEvent Website: http://www.fortworthcx.com/tx-state-championship.ht
- ml\nTexas Cup Tier: Championship\nTexas Cup Event: Yes\n
-LOCATION:Fort Worth\, TX (Trinity Park)
-STATUS:Scheduled
-URL:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:USA Cycling National Cyclo-Cross Championships
-DTSTART;VALUE=DATE:20180109
-DTEND;VALUE=DATE:20180115
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=523
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Reno\, NV
-STATUS:Scheduled
-URL:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tommy Ketterhagen Memorial Road Race
 DTSTART;VALUE=DATE:20180120
 DTEND;VALUE=DATE:20180121
@@ -77,21 +51,9 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=546
  ling.org/events/getflyer.php?permit=2018-238\nContact Name: Alex Montoya\n
  Email Address: mailto:alexander@localbikeracing.com\nEvent Website: localb
  ikeracing.com\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:
+LOCATION:Crockett\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/davy-crockett-classic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour of New Braunfels
-DTSTART;VALUE=DATE:20180217
-DTEND;VALUE=DATE:20180219
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=547
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Aaron Nelson\nEmail Address: mailto:\n
- Event Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
-LOCATION:New Braunfels\, TX
-STATUS:Tentative
-URL:www....
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pace Bend Weekend
@@ -123,16 +85,17 @@ STATUS:Scheduled
 URL:https://www.usacycling.org/register/2018-429
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Primavera @ Lago Vista
+SUMMARY:La Primavera Lago Vista 27th Annual
 DTSTART;VALUE=DATE:20180303
 DTEND;VALUE=DATE:20180305
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=549
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Don Hutchison\nEmail Address: mailto:\
- nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ \nRegistration Website: www.bikereg.com\nEvent Type: Road\nEvent Status: S
+ cheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?p
+ ermit=2018-638\nContact Name: Don Hutchison\nEmail Address: mailto:\nEvent
+  Website: website\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
 LOCATION:Lago Vista\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fayetteville Road Race
@@ -147,6 +110,412 @@ STATUS:Tentative
 URL:www....
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180315
+DTEND;VALUE=DATE:20180316
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180322
+DTEND;VALUE=DATE:20180323
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180329
+DTEND;VALUE=DATE:20180330
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180405
+DTEND;VALUE=DATE:20180406
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180412
+DTEND;VALUE=DATE:20180413
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180419
+DTEND;VALUE=DATE:20180420
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180426
+DTEND;VALUE=DATE:20180427
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180503
+DTEND;VALUE=DATE:20180504
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180510
+DTEND;VALUE=DATE:20180511
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180517
+DTEND;VALUE=DATE:20180518
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180524
+DTEND;VALUE=DATE:20180525
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180601
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180608
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180614
+DTEND;VALUE=DATE:20180615
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180622
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180629
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180706
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180713
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180720
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180727
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180803
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180810
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180817
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180824
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180831
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180906
+DTEND;VALUE=DATE:20180907
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180913
+DTEND;VALUE=DATE:20180914
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180920
+DTEND;VALUE=DATE:20180921
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180927
+DTEND;VALUE=DATE:20180928
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tour de Greune Time Trial
 DTSTART;VALUE=DATE:20180317
 DTEND;VALUE=DATE:20180318
@@ -155,6 +524,54 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=551
  \nEvent Flyer: Flyer\nContact Name: Will Rotzler\nEmail Address: mailto:\n
  Event Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
 LOCATION:Gruene\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marvelous Series
+DTSTART;VALUE=DATE:20180318
+DTEND;VALUE=DATE:20180319
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=568
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:San Marcos\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marvelous Series
+DTSTART;VALUE=DATE:20180427
+DTEND;VALUE=DATE:20180428
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=568
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:San Marcos\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marvelous Series
+DTSTART;VALUE=DATE:20180526
+DTEND;VALUE=DATE:20180527
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=568
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:San Marcos\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marvelous Series
+DTSTART;VALUE=DATE:20180623
+DTEND;VALUE=DATE:20180624
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=568
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:San Marcos\, TX
 STATUS:Tentative
 URL:www....
 END:VEVENT
@@ -171,6 +588,150 @@ STATUS:Tentative
 URL:www....
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180327
+DTEND;VALUE=DATE:20180328
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180410
+DTEND;VALUE=DATE:20180411
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180424
+DTEND;VALUE=DATE:20180425
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180508
+DTEND;VALUE=DATE:20180509
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180522
+DTEND;VALUE=DATE:20180523
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180606
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180711
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180725
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180808
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180822
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180904
+DTEND;VALUE=DATE:20180905
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
+ \nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  \n
+ Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jesuit Ranger Roundup
 DTSTART;VALUE=DATE:20180408
 DTEND;VALUE=DATE:20180409
@@ -183,7 +744,7 @@ STATUS:Tentative
 URL:www....
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matrix Challenge
+SUMMARY:State Criterium Championships - Matrix Challenge
 DTSTART;VALUE=DATE:20180414
 DTEND;VALUE=DATE:20180416
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=553
@@ -195,13 +756,25 @@ STATUS:Tentative
 URL:www....
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Poteet Strawberry Grinder
+DTSTART;VALUE=DATE:20180415
+DTEND;VALUE=DATE:20180416
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=570
+ \nRegistration Website: www....\nEvent Type: Gravel\nEvent Status: Tentati
+ ve\nEvent Flyer: Flyer\nContact Name: Robert Strickland\nEmail Address:  
+ \nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Poteet\, TX
+STATUS:Tentative
+URL:www....
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wimberly Road Race
-DTSTART;VALUE=DATE:20180421
+DTSTART;VALUE=DATE:20180422
 DTEND;VALUE=DATE:20180423
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=554
  \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
  \nEvent Flyer: Flyer\nContact Name: Robert STrickland\nEmail Address: mail
- to:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ to:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
 LOCATION:Wimberly\, TX
 STATUS:Tentative
 URL:www....

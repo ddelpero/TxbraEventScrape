@@ -1,28 +1,2 @@
 BEGIN:VCALENDAR
-BEGIN:VEVENT
-SUMMARY:Cyclo-cross State Championshps
-DTSTART;VALUE=DATE:20180106
-DTEND;VALUE=DATE:20180108
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=521
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-203\nContact Name: Bryan Roberts\nEmail Address: mailto:fortworthcx@gma
- il.com\nEvent Website: http://www.fortworthcx.com/tx-state-championship.ht
- ml\nTexas Cup Tier: Championship\nTexas Cup Event: Yes\n
-LOCATION:Fort Worth\, TX (Trinity Park)
-STATUS:Scheduled
-URL:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:USA Cycling National Cyclo-Cross Championships
-DTSTART;VALUE=DATE:20180109
-DTEND;VALUE=DATE:20180115
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=523
- \nRegistration Website: \nEvent Type: Cyclo-cross\nEvent Status: Scheduled
- \nEvent Flyer: \nContact Name: \nEmail Address: mailto:\nEvent Website: \n
- Texas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Reno\, NV
-STATUS:Scheduled
-URL:
-END:VEVENT
 END:VCALENDAR
