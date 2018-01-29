@@ -1,33 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Tommy Ketterhagen Memorial Road Race
-DTSTART;VALUE=DATE:20180120
-DTEND;VALUE=DATE:20180121
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=545
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
- er.php?permit=2018-286\nContact Name: Holland Racing\nEmail Address: mailt
- o:kelley.ables@hollandracing.net\nEvent Website: www.hollandracing.net\nTe
- xas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:Oatmeal\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tommy Ketterhagen Memorial Ride
-DTSTART;VALUE=DATE:20180120
-DTEND;VALUE=DATE:20180121
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=564
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
- er.php?permit=2018-366\nContact Name: Holland Racing\nEmail Address: mailt
- o:kelley.ables@hollandracing.net\nEvent Website: www.hollandracing.net\nTe
- xas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Oatmeal\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cedar Hill Race Festival
 DTSTART;VALUE=DATE:20180203
 DTEND;VALUE=DATE:20180205
