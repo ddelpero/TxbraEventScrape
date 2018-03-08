@@ -1880,18 +1880,6 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Greune Time Trial
-DTSTART;VALUE=DATE:20180317
-DTEND;VALUE=DATE:20180318
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=551
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Will Rotzler\nEmail Address: mailto:\n
- Event Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Gruene\, TX
-STATUS:Tentative
-URL:www....
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Marvelous Road Race
 DTSTART;VALUE=DATE:20180317
 DTEND;VALUE=DATE:20180318
@@ -1958,6 +1946,20 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=552
  mailto:zlytle@gmail.com\nEvent Website: www.tourofcorsicana.com\nTexas Cup
   Tier: Elite\nTexas Cup Event: Yes\n
 LOCATION:Corsicana\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/corsicana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corsicana Gravel Fest
+DTSTART;VALUE=DATE:20180325
+DTEND;VALUE=DATE:20180326
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=584
+ \nRegistration Website: https://www.bikereg.com/corsicana\nEvent Type: Gra
+ vel\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/e
+ vents/getflyer.php?permit=2018-719\nContact Name: Zac Lytle\nEmail Address
+ : mailto:\nEvent Website: www.tourofcorsicana.com\nTexas Cup Tier: \nTexas
+  Cup Event: No\n
+LOCATION:Purdon\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/corsicana
 END:VEVENT
@@ -2130,16 +2132,32 @@ STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-1005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grinder Nationals
+DTSTART;VALUE=DATE:20180407
+DTEND;VALUE=DATE:20180408
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=583
+ \nRegistration Website: https://www.bikereg.com/grindernationals\nEvent Ty
+ pe: Gravel\nEvent Status: Scheduled\nEvent Flyer: http://www.grindernation
+ als.com/#grinder-categories\nContact Name: Troy Farr\nEmail Address: mailt
+ o:\nEvent Website: www.GrinderNationals.com\nTexas Cup Tier: \nTexas Cup E
+ vent: No\n
+LOCATION:Lawrence\, KS
+STATUS:Scheduled
+URL:https://www.bikereg.com/grindernationals
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jesuit Ranger Roundup
 DTSTART;VALUE=DATE:20180408
 DTEND;VALUE=DATE:20180409
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=567
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Andrew Armstrong\nEmail Address: mailt
- o:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: ???\n
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
+ tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
+ er.php?permit=2018-1284\nContact Name: Andrew Armstrong\nEmail Address: ma
+ ilto:aparmstrong@gmail.com\nEvent Website: website\nTexas Cup Tier: Region
+ \nTexas Cup Event: Yes\n
 LOCATION:Dallas\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Chicanes
@@ -2204,7 +2222,7 @@ DTEND;VALUE=DATE:20180423
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=554
  \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
  \nEvent Flyer: Flyer\nContact Name: Robert STrickland\nEmail Address: mail
- to:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: No\n
+ to:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
 LOCATION:Wimberly\, TX
 STATUS:Tentative
 URL:www....
@@ -2316,6 +2334,33 @@ LOCATION:El Paso\, TX
 STATUS:Tentative
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=821&year=2018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Gravel Championship
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=581
+ \nRegistration Website: https://www.bikereg.com/texas-gravel-championship2
+ 018\nEvent Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://leg
+ acy.usacycling.org/events/getflyer.php?permit=2018-1295\nContact Name: Cha
+ d Welch / Joy Brott\nEmail Address: mailto:welchc01@live.com\;brottjoy@gma
+ il.com\nEvent Website: http://www.grittyteethracing.com/\nTexas Cup Tier: 
+ \nTexas Cup Event: No\n
+LOCATION:Rosebud\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/texas-gravel-championship2018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coldspring Road Race
+DTSTART;VALUE=DATE:20180505
+DTEND;VALUE=DATE:20180506
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=582
+ \nRegistration Website: On-line reg\nEvent Type: Road\nEvent Status: Tenta
+ tive\nEvent Flyer: Flyer\nContact Name: Jim Quinn\nEmail Address: mailto:\
+ nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: Yes\n
+LOCATION:Coldspring\, TX
+STATUS:Tentative
+URL:On-line reg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Houston Grand Crit
