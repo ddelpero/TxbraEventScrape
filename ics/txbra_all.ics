@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180308
-DTEND;VALUE=DATE:20180309
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
 DTSTART;VALUE=DATE:20180315
 DTEND;VALUE=DATE:20180316
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
