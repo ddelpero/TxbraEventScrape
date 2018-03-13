@@ -2188,16 +2188,18 @@ STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-870
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wimberly Road Race
+SUMMARY:Jacob's Well Classic
 DTSTART;VALUE=DATE:20180422
 DTEND;VALUE=DATE:20180423
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=554
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Robert STrickland\nEmail Address: mail
- to:\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ \nRegistration Website: www.bikereg.com\nEvent Type: Road\nEvent Status: S
+ cheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?p
+ ermit=2018-1333\nContact Name: Robert Strickland\nEmail Address: mailto:\n
+ Event Website: https://www.facebook.com/cibolocreekracing\nTexas Cup Tier:
+  State\nTexas Cup Event: Yes\n
 LOCATION:Wimberly\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bear Creek Crit Series
@@ -2339,12 +2341,16 @@ SUMMARY:Houston Grand Crit
 DTSTART;VALUE=DATE:20180506
 DTEND;VALUE=DATE:20180507
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=565
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: Lee Nethery\nEmail Address: mailto:\nE
- vent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
+ \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
+ ename=registration&eventid=1250&year=2018\nEvent Type: Road\nEvent Status:
+  Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php
+ ?permit=2018-1250\nContact Name: Lee Neatherly\, Tim Barnett\nEmail Addres
+ s: mailto:race@bikebarn.com\nEvent Website: https://www.facebook.com/Houst
+ onGrandCrit\nTexas Cup Tier: Elite\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX
-STATUS:Tentative
-URL:www....
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
+ ventid=1250&year=2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:State Time Trial Championships
