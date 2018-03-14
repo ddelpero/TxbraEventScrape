@@ -438,20 +438,6 @@ URL:https://www.bikereg.com/castrovilletimetrialmarch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
-DTSTART;VALUE=DATE:20180313
-DTEND;VALUE=DATE:20180314
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit113\nEvent
-  Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycli
- ng.org/events/getflyer.php?permit=2018-866\nContact Name: Jorge Merle\nEma
- il Address: mailto:bluefingers50@gmail.com\nEvent Website: www.facebook.co
- m/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit113
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit
 DTSTART;VALUE=DATE:20180320
 DTEND;VALUE=DATE:20180321
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
