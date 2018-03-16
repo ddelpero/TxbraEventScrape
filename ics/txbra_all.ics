@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180315
-DTEND;VALUE=DATE:20180316
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
 DTSTART;VALUE=DATE:20180322
 DTEND;VALUE=DATE:20180323
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
@@ -1401,20 +1387,6 @@ LOCATION:McKinney\, TX
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=961&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180315
-DTEND;VALUE=DATE:20180316
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Driveway Series
