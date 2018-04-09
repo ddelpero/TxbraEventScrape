@@ -1762,20 +1762,6 @@ URL:https://www.bikereg.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castroville Time Trials
-DTSTART;VALUE=DATE:20180408
-DTEND;VALUE=DATE:20180409
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=575
- \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
- nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
- acycling.org/events/getflyer.php?permit=2018-1048\nContact Name: \nEmail A
- ddress: mailto:infohcsa@gmail.com\nEvent Website: www.hillcountrysa.org\nT
- exas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Castroville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/castrovilletimetrialmarch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castroville Time Trials
 DTSTART;VALUE=DATE:20180513
 DTEND;VALUE=DATE:20180514
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=575
@@ -1801,20 +1787,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=575
 LOCATION:Castroville\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/castrovilletimetrialmarch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunday Chicanes
-DTSTART;VALUE=DATE:20180408
-DTEND;VALUE=DATE:20180409
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=577
- \nRegistration Website: https://www.bikereg.com/sunday-chicanes\nEvent Typ
- e: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.o
- rg/events/getflyer.php?permit=2018-802\nContact Name: Jelly and Jam Racing
- \nEmail Address: mailto:jellyandjamracing@gmail.com\nEvent Website: \nTexa
- s Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Universal City\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/sunday-chicanes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday Chicanes
