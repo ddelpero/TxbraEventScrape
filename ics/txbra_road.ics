@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180424
-DTEND;VALUE=DATE:20180425
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
 DTSTART;VALUE=DATE:20180508
 DTEND;VALUE=DATE:20180509
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
@@ -138,20 +124,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
 LOCATION:New Braunfels\, TX
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit
-DTSTART;VALUE=DATE:20180424
-DTEND;VALUE=DATE:20180425
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit113\nEvent
-  Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycli
- ng.org/events/getflyer.php?permit=2018-866\nContact Name: Jorge Merle\nEma
- il Address: mailto:bluefingers50@gmail.com\nEvent Website: www.facebook.co
- m/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit113
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
@@ -542,6 +514,84 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=574
  ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier: \nTexas Cup 
  Event: No\n
 LOCATION:Fort Worth\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bear Creek Crit Series
+DTSTART;VALUE=DATE:20180425
+DTEND;VALUE=DATE:20180426
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
+ obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bear Creek Crit Series
+DTSTART;VALUE=DATE:20180502
+DTEND;VALUE=DATE:20180503
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
+ obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bear Creek Crit Series
+DTSTART;VALUE=DATE:20180509
+DTEND;VALUE=DATE:20180510
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
+ obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bear Creek Crit Series
+DTSTART;VALUE=DATE:20180516
+DTEND;VALUE=DATE:20180517
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
+ obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bear Creek Crit Series
+DTSTART;VALUE=DATE:20180523
+DTEND;VALUE=DATE:20180524
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
+ obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bear Creek Crit Series
+DTSTART;VALUE=DATE:20180530
+DTEND;VALUE=DATE:20180531
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
+ obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
 END:VEVENT
@@ -1717,127 +1767,6 @@ STATUS:Scheduled
 URL:Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:State Criterium Championships - Matrix Challenge
-DTSTART;VALUE=DATE:20180414
-DTEND;VALUE=DATE:20180416
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=553
- \nRegistration Website: https://legacy.usacycling.org/register/2018-870\nE
- vent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usac
- ycling.org/events/getflyer.php?permit=2018-870\nContact Name: Jeff Lucido\
- nEmail Address: mailto:jlucido@raceday.systems\nEvent Website: www.faceboo
- k.com/MatrixChallenge\nTexas Cup Tier: Championship\nTexas Cup Event: Yes\
- n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-870
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Time Trials
-DTSTART;VALUE=DATE:20180922
-DTEND;VALUE=DATE:20180923
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=591
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AtomicTimeTrials.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkekvelodro
- me.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTexas Cup
-  Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jacob's Well Classic
-DTSTART;VALUE=DATE:20180422
-DTEND;VALUE=DATE:20180423
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=554
- \nRegistration Website: www.bikereg.com\nEvent Type: Road\nEvent Status: S
- cheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?p
- ermit=2018-1333\nContact Name: Robert Strickland\nEmail Address: mailto:\n
- Event Website: https://www.facebook.com/cibolocreekracing\nTexas Cup Tier:
-  State\nTexas Cup Event: Yes\n
-LOCATION:Wimberly\, TX
-STATUS:Scheduled
-URL:www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180425
-DTEND;VALUE=DATE:20180426
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180502
-DTEND;VALUE=DATE:20180503
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180509
-DTEND;VALUE=DATE:20180510
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180516
-DTEND;VALUE=DATE:20180517
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180523
-DTEND;VALUE=DATE:20180524
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180530
-DTEND;VALUE=DATE:20180531
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hammerfest
 DTSTART;VALUE=DATE:20180428
 DTEND;VALUE=DATE:20180430
@@ -2198,5 +2127,19 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=561
 LOCATION:Longview\, TX
 STATUS:Tentative
 URL:www....
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atomic Time Trials
+DTSTART;VALUE=DATE:20180922
+DTEND;VALUE=DATE:20180923
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=591
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AtomicTimeTrials.p
+ df\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkekvelodro
+ me.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTexas Cup
+  Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
 END:VEVENT
 END:VCALENDAR
