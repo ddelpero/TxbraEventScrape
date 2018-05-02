@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
-DTSTART;VALUE=DATE:20180501
-DTEND;VALUE=DATE:20180502
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit113\nEvent
-  Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycli
- ng.org/events/getflyer.php?permit=2018-866\nContact Name: Jorge Merle\nEma
- il Address: mailto:bluefingers50@gmail.com\nEvent Website: www.facebook.co
- m/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit113
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit
 DTSTART;VALUE=DATE:20180508
 DTEND;VALUE=DATE:20180509
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
@@ -1848,34 +1834,6 @@ URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1915&year=2018
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Marvelous Road Race
-DTSTART;VALUE=DATE:20180526
-DTEND;VALUE=DATE:20180527
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
- \nRegistration Website: https://www.bikereg.com/\nEvent Type: Road\nEvent 
- Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
- yer.php?permit=2018-960\nContact Name: Robert Strickland\nEmail Address: m
- ailto:\nEvent Website: www.facebook.com/cibolocreekracing\nTexas Cup Tier:
-  \nTexas Cup Event: No\n
-LOCATION:San Marcos\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Marvelous Road Race
-DTSTART;VALUE=DATE:20180623
-DTEND;VALUE=DATE:20180624
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
- \nRegistration Website: https://www.bikereg.com/\nEvent Type: Road\nEvent 
- Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
- yer.php?permit=2018-960\nContact Name: Robert Strickland\nEmail Address: m
- ailto:\nEvent Website: www.facebook.com/cibolocreekracing\nTexas Cup Tier:
-  \nTexas Cup Event: No\n
-LOCATION:San Marcos\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Critmas 2018
 DTSTART;VALUE=DATE:20180527
 DTEND;VALUE=DATE:20180529
@@ -1890,6 +1848,34 @@ LOCATION:Rockwall\, TX
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1915&year=2018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marvelous Road Race
+DTSTART;VALUE=DATE:20180602
+DTEND;VALUE=DATE:20180603
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
+ \nRegistration Website: https://www.bikereg.com/\nEvent Type: Road\nEvent 
+ Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
+ yer.php?permit=2018-960\nContact Name: Robert Strickland\nEmail Address: m
+ ailto:\nEvent Website: www.facebook.com/cibolocreekracing\nTexas Cup Tier:
+  \nTexas Cup Event: No\n
+LOCATION:San Marcos\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Marvelous Road Race
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180701
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
+ \nRegistration Website: https://www.bikereg.com/\nEvent Type: Road\nEvent 
+ Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
+ yer.php?permit=2018-960\nContact Name: Robert Strickland\nEmail Address: m
+ ailto:\nEvent Website: www.facebook.com/cibolocreekracing\nTexas Cup Tier:
+  \nTexas Cup Event: No\n
+LOCATION:San Marcos\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Master and Junior Regional Championships
