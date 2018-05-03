@@ -253,20 +253,6 @@ URL:https://www.bikereg.com/tuesdaynightcrit113
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bicycles\, Inc.\, Wednesday Night Crits
-DTSTART;VALUE=DATE:20180502
-DTEND;VALUE=DATE:20180503
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=574
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-919\nContact Name: Andy Hollinger\nEmail Address: mailto:	andy@aghollin
- ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier: \nTexas Cup 
- Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bicycles\, Inc.\, Wednesday Night Crits
 DTSTART;VALUE=DATE:20180509
 DTEND;VALUE=DATE:20180510
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=574
@@ -365,19 +351,6 @@ URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180502
-DTEND;VALUE=DATE:20180503
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
 DTSTART;VALUE=DATE:20180509
 DTEND;VALUE=DATE:20180510
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
@@ -427,21 +400,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McKinney Wednesday Night Criterium Series
-DTSTART;VALUE=DATE:20180502
-DTEND;VALUE=DATE:20180503
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
- ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=961&year=2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McKinney Wednesday Night Criterium Series
