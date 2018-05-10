@@ -239,20 +239,6 @@ URL:https://www.bikereg.com/tuesdaynightcrit113
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bicycles\, Inc.\, Wednesday Night Crits
-DTSTART;VALUE=DATE:20180509
-DTEND;VALUE=DATE:20180510
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=574
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-919\nContact Name: Andy Hollinger\nEmail Address: mailto:	andy@aghollin
- ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier: \nTexas Cup 
- Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bicycles\, Inc.\, Wednesday Night Crits
 DTSTART;VALUE=DATE:20180516
 DTEND;VALUE=DATE:20180517
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=574
@@ -337,19 +323,6 @@ URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bear Creek Crit Series
-DTSTART;VALUE=DATE:20180509
-DTEND;VALUE=DATE:20180510
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-706\nContact Name: Tom Craddock\nEmail Address: mailto:tpcraddock@sbcgl
- obal.net\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bear Creek Crit Series
 DTSTART;VALUE=DATE:20180516
 DTEND;VALUE=DATE:20180517
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
@@ -386,21 +359,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=578
 LOCATION:Houston\, TX
 STATUS:Scheduled
 URL:On-site
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McKinney Wednesday Night Criterium Series
-DTSTART;VALUE=DATE:20180509
-DTEND;VALUE=DATE:20180510
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
- ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=961&year=2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McKinney Wednesday Night Criterium Series
@@ -1766,18 +1724,174 @@ STATUS:Scheduled
 URL:https://www.bikereg.com/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180606
+DTEND;VALUE=DATE:20180607
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180613
+DTEND;VALUE=DATE:20180614
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180627
+DTEND;VALUE=DATE:20180628
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180711
+DTEND;VALUE=DATE:20180712
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180718
+DTEND;VALUE=DATE:20180719
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180725
+DTEND;VALUE=DATE:20180726
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180801
+DTEND;VALUE=DATE:20180802
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180808
+DTEND;VALUE=DATE:20180809
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180815
+DTEND;VALUE=DATE:20180816
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180822
+DTEND;VALUE=DATE:20180823
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Park Criterium Series
+DTSTART;VALUE=DATE:20180829
+DTEND;VALUE=DATE:20180830
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Master and Junior Regional Championships
 DTSTART;VALUE=DATE:20180609
 DTEND;VALUE=DATE:20180611
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=587
  \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
  ename=registration&eventid=1614&year=2018\nEvent Type: Track\nEvent Status
- : Tentative\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.ph
+ : Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.ph
  p?permit=2018-1614\nContact Name: Doug Evans\nEmail Address: mailto:dougev
  ans@alkekvelodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup T
  ier: Championship\nTexas Cup Event: Yes\n
 LOCATION:Houston\, TX (Alkek)
-STATUS:Tentative
+STATUS:Scheduled
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1614&year=2018
 END:VEVENT
