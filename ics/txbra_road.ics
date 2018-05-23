@@ -1,17 +1,101 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit
-DTSTART;VALUE=DATE:20180522
-DTEND;VALUE=DATE:20180523
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
- \nRegistration Website: https://www.bikereg.com/tuesdaynightcrit113\nEvent
-  Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycli
- ng.org/events/getflyer.php?permit=2018-866\nContact Name: Jorge Merle\nEma
- il Address: mailto:bluefingers50@gmail.com\nEvent Website: www.facebook.co
- m/groups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson\, TX
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180606
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
 STATUS:Scheduled
-URL:https://www.bikereg.com/tuesdaynightcrit113
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180711
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180725
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180808
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180822
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180904
+DTEND;VALUE=DATE:20180905
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
@@ -1109,6 +1193,20 @@ STATUS:Scheduled
 URL:https://www-2.usacycling.org/register/2018-440
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bike the Bricks IX
+DTSTART;VALUE=DATE:20180525
+DTEND;VALUE=DATE:20180526
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=557
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
+ tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
+ er.php?permit=2018-1546\nContact Name: Bryan Perkins\nEmail Address: mailt
+ o:info@mckinneyvelo.org\nEvent Website: www.bikethebricks.com\nTexas Cup T
+ ier: Elite\nTexas Cup Event: Yes\n
+LOCATION:McKinney\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alkek Championships Series
 DTSTART;VALUE=DATE:20180525
 DTEND;VALUE=DATE:20180526
@@ -1277,242 +1375,9 @@ STATUS:Scheduled
 URL:Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de El Paso 2018
-DTSTART;VALUE=DATE:20180505
-DTEND;VALUE=DATE:20180507
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=580
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=821&year=2018\nEvent Type: Road\nEvent Status: 
- Tentative\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-821\nContact Name: Pedro Martinez\nEmail Address: mailto:pedro
- @epcyclists.com\nEvent Website: www.epcyclists.com\nTexas Cup Tier: \nTexa
- s Cup Event: No\n
-LOCATION:El Paso\, TX
-STATUS:Tentative
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=821&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Gravel Championship
-DTSTART;VALUE=DATE:20180505
-DTEND;VALUE=DATE:20180506
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=581
- \nRegistration Website: https://www.bikereg.com/texas-gravel-championship2
- 018\nEvent Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://leg
- acy.usacycling.org/events/getflyer.php?permit=2018-1295\nContact Name: Cha
- d Welch / Joy Brott\nEmail Address: mailto:welchc01@live.com\;brottjoy@gma
- il.com\nEvent Website: http://www.grittyteethracing.com/\nTexas Cup Tier: 
- \nTexas Cup Event: No\n
-LOCATION:Rosebud\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/texas-gravel-championship2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Houston Grand Crit
-DTSTART;VALUE=DATE:20180506
-DTEND;VALUE=DATE:20180507
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=565
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=1250&year=2018\nEvent Type: Road\nEvent Status:
-  Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php
- ?permit=2018-1250\nContact Name: Lee Neatherly\, Tim Barnett\nEmail Addres
- s: mailto:race@bikebarn.com\nEvent Website: https://www.facebook.com/Houst
- onGrandCrit\nTexas Cup Tier: Elite\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=1250&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180522
-DTEND;VALUE=DATE:20180523
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180605
-DTEND;VALUE=DATE:20180606
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180619
-DTEND;VALUE=DATE:20180620
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180710
-DTEND;VALUE=DATE:20180711
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180724
-DTEND;VALUE=DATE:20180725
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180807
-DTEND;VALUE=DATE:20180808
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180821
-DTEND;VALUE=DATE:20180822
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180904
-DTEND;VALUE=DATE:20180905
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Cup Match Sprints at Alkek
-DTSTART;VALUE=DATE:20180512
-DTEND;VALUE=DATE:20180513
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=586
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=1595&year=2018\nEvent Type: Track\nEvent Status
- : Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.ph
- p?permit=2018-1595\nContact Name: Doug Evans\nEmail Address: mailto:dougev
- ans@alkekvelodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup T
- ier: State\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=1595&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castroville Time Trials
-DTSTART;VALUE=DATE:20180812
-DTEND;VALUE=DATE:20180813
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=575
- \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
- nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
- acycling.org/events/getflyer.php?permit=2018-1048\nContact Name: \nEmail A
- ddress: mailto:infohcsa@gmail.com\nEvent Website: www.hillcountrysa.org\nT
- exas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Castroville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/castrovilletimetrialmarch
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunday Chicanes
-DTSTART;VALUE=DATE:20180624
-DTEND;VALUE=DATE:20180625
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=577
- \nRegistration Website: https://www.bikereg.com/sunday-chicanes\nEvent Typ
- e: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.o
- rg/events/getflyer.php?permit=2018-802\nContact Name: Jelly and Jam Racing
- \nEmail Address: mailto:jellyandjamracing@gmail.com\nEvent Website: \nTexa
- s Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Universal City\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/sunday-chicanes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:State Time Trial Championships
-DTSTART;VALUE=DATE:20180519
-DTEND;VALUE=DATE:20180521
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=556
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=166&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-166\nContact Name: Ino Sofjan\nEmail Address: mailto:txttc@nwc
- c.bike\nEvent Website: http://txttchampionship.com/\nTexas Cup Tier: Champ
- ionship\nTexas Cup Event: Yes\n
-LOCATION:Hempstead\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=166&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bike the Bricks IX
-DTSTART;VALUE=DATE:20180525
-DTEND;VALUE=DATE:20180526
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=557
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
- er.php?permit=2018-1546\nContact Name: Bryan Perkins\nEmail Address: mailt
- o:info@mckinneyvelo.org\nEvent Website: www.bikethebricks.com\nTexas Cup T
- ier: Elite\nTexas Cup Event: Yes\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Critmas 2018
 DTSTART;VALUE=DATE:20180526
-DTEND;VALUE=DATE:20180527
+DTEND;VALUE=DATE:20180529
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=562
  \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
  ename=registration&eventid=1915&year=2018\nEvent Type: Road\nEvent Status:
@@ -1521,22 +1386,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=562
  ceday.systems\nEvent Website:  \nTexas Cup Tier: State\nTexas Cup Event: 
  Yes\n
 LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=1915&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Critmas 2018
-DTSTART;VALUE=DATE:20180527
-DTEND;VALUE=DATE:20180529
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=594
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=1915&year=2018\nEvent Type: Road\nEvent Status:
-  Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?pe
- rmit=2018-1915\nContact Name: Jeff Lucido\nEmail Address: mailto:events@ra
- ceday.systems\nEvent Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\
- n
-LOCATION:Rockwall\, TX
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1915&year=2018
@@ -1758,6 +1607,20 @@ URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1613&year=2018
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunday Chicanes
+DTSTART;VALUE=DATE:20180624
+DTEND;VALUE=DATE:20180625
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=577
+ \nRegistration Website: https://www.bikereg.com/sunday-chicanes\nEvent Typ
+ e: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.o
+ rg/events/getflyer.php?permit=2018-802\nContact Name: Jelly and Jam Racing
+ \nEmail Address: mailto:jellyandjamracing@gmail.com\nEvent Website: \nTexa
+ s Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Universal City\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/sunday-chicanes
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:22nd Rodeo Road Rally p/b Mesquite Rotary Club
 DTSTART;VALUE=DATE:20180630
 DTEND;VALUE=DATE:20180701
@@ -1783,6 +1646,20 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=588
 LOCATION:Houston\, TX (Alkek)
 STATUS:Tentative
 URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castroville Time Trials
+DTSTART;VALUE=DATE:20180812
+DTEND;VALUE=DATE:20180813
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=575
+ \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
+ nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
+ acycling.org/events/getflyer.php?permit=2018-1048\nContact Name: \nEmail A
+ ddress: mailto:infohcsa@gmail.com\nEvent Website: www.hillcountrysa.org\nT
+ exas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Castroville\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/castrovilletimetrialmarch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hotter 'n Hell
