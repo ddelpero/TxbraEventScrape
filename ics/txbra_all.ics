@@ -1,101 +1,677 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180605
-DTEND;VALUE=DATE:20180606
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180601
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180619
-DTEND;VALUE=DATE:20180620
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180608
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180710
-DTEND;VALUE=DATE:20180711
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180614
+DTEND;VALUE=DATE:20180615
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180724
-DTEND;VALUE=DATE:20180725
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180622
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180807
-DTEND;VALUE=DATE:20180808
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180629
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180821
-DTEND;VALUE=DATE:20180822
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180706
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree of Life Crit Series
-DTSTART;VALUE=DATE:20180904
-DTEND;VALUE=DATE:20180905
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
- land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
- t: No\n
-LOCATION:New Braunfels\, TX
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180713
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1005
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180720
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180727
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180803
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180810
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180817
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180824
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180831
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180906
+DTEND;VALUE=DATE:20180907
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180913
+DTEND;VALUE=DATE:20180914
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180920
+DTEND;VALUE=DATE:20180921
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Driveway Series
+DTSTART;VALUE=DATE:20180927
+DTEND;VALUE=DATE:20180928
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
+ \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
+ n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
+ gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
+ ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
+ site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Austin\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/pure-driveway-series-season-pass
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180531
+DTEND;VALUE=DATE:20180601
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180607
+DTEND;VALUE=DATE:20180608
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180614
+DTEND;VALUE=DATE:20180615
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180622
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180628
+DTEND;VALUE=DATE:20180629
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180705
+DTEND;VALUE=DATE:20180706
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180712
+DTEND;VALUE=DATE:20180713
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180719
+DTEND;VALUE=DATE:20180720
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180726
+DTEND;VALUE=DATE:20180727
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180802
+DTEND;VALUE=DATE:20180803
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180809
+DTEND;VALUE=DATE:20180810
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180816
+DTEND;VALUE=DATE:20180817
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180823
+DTEND;VALUE=DATE:20180824
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180830
+DTEND;VALUE=DATE:20180831
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180906
+DTEND;VALUE=DATE:20180907
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KingRacingGroup Thursday Night Crits
+DTSTART;VALUE=DATE:20180913
+DTEND;VALUE=DATE:20180914
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
+ \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
+ ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
+ cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
+ mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
+ p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:Dallas\, TX
+STATUS:Scheduled
+URL:https://www-2.usacycling.org/register/2018-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike the Bricks IX
+DTSTART;VALUE=DATE:20180525
+DTEND;VALUE=DATE:20180526
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=557
+ \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
+ tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
+ er.php?permit=2018-1546\nContact Name: Bryan Perkins\nEmail Address: mailt
+ o:info@mckinneyvelo.org\nEvent Website: www.bikethebricks.com\nTexas Cup T
+ ier: Elite\nTexas Cup Event: Yes\n
+LOCATION:McKinney\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180525
+DTEND;VALUE=DATE:20180526
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180601
+DTEND;VALUE=DATE:20180602
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180615
+DTEND;VALUE=DATE:20180616
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180630
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180728
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180804
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180825
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180901
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180907
+DTEND;VALUE=DATE:20180908
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180921
+DTEND;VALUE=DATE:20180922
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180928
+DTEND;VALUE=DATE:20180929
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20181006
+DTEND;VALUE=DATE:20181007
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critmas 2018
+DTSTART;VALUE=DATE:20180526
+DTEND;VALUE=DATE:20180529
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=562
+ \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
+ ename=registration&eventid=1915&year=2018\nEvent Type: Road\nEvent Status:
+  Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?pe
+ rmit=2018-1915\nContact Name: Jeff Lucido\nEmail Address: mailto:events@ra
+ ceday.systems\nEvent Website:  \nTexas Cup Tier: State\nTexas Cup Event: 
+ Yes\n
+LOCATION:McKinney\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
+ ventid=1915&year=2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
@@ -647,708 +1223,6 @@ URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=961&year=2018
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180524
-DTEND;VALUE=DATE:20180525
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180531
-DTEND;VALUE=DATE:20180601
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180607
-DTEND;VALUE=DATE:20180608
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180614
-DTEND;VALUE=DATE:20180615
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180621
-DTEND;VALUE=DATE:20180622
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180628
-DTEND;VALUE=DATE:20180629
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180705
-DTEND;VALUE=DATE:20180706
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180712
-DTEND;VALUE=DATE:20180713
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180719
-DTEND;VALUE=DATE:20180720
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180726
-DTEND;VALUE=DATE:20180727
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180802
-DTEND;VALUE=DATE:20180803
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180809
-DTEND;VALUE=DATE:20180810
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180816
-DTEND;VALUE=DATE:20180817
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180823
-DTEND;VALUE=DATE:20180824
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180830
-DTEND;VALUE=DATE:20180831
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180906
-DTEND;VALUE=DATE:20180907
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180913
-DTEND;VALUE=DATE:20180914
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180920
-DTEND;VALUE=DATE:20180921
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180927
-DTEND;VALUE=DATE:20180928
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180524
-DTEND;VALUE=DATE:20180525
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180531
-DTEND;VALUE=DATE:20180601
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180607
-DTEND;VALUE=DATE:20180608
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180614
-DTEND;VALUE=DATE:20180615
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180621
-DTEND;VALUE=DATE:20180622
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180628
-DTEND;VALUE=DATE:20180629
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180705
-DTEND;VALUE=DATE:20180706
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180712
-DTEND;VALUE=DATE:20180713
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180719
-DTEND;VALUE=DATE:20180720
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180726
-DTEND;VALUE=DATE:20180727
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180802
-DTEND;VALUE=DATE:20180803
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180809
-DTEND;VALUE=DATE:20180810
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180816
-DTEND;VALUE=DATE:20180817
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180823
-DTEND;VALUE=DATE:20180824
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180830
-DTEND;VALUE=DATE:20180831
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180906
-DTEND;VALUE=DATE:20180907
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180913
-DTEND;VALUE=DATE:20180914
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://www-2.usacycling.org/register/2018-440\nEv
- ent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacy
- cling.org/events/getflyer.php?permit=2018-440\nContact Name: Ginny King\nE
- mail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracinggrou
- p.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://www-2.usacycling.org/register/2018-440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bike the Bricks IX
-DTSTART;VALUE=DATE:20180525
-DTEND;VALUE=DATE:20180526
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=557
- \nRegistration Website: https://www.bikereg.com\nEvent Type: Road\nEvent S
- tatus: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfly
- er.php?permit=2018-1546\nContact Name: Bryan Perkins\nEmail Address: mailt
- o:info@mckinneyvelo.org\nEvent Website: www.bikethebricks.com\nTexas Cup T
- ier: Elite\nTexas Cup Event: Yes\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180525
-DTEND;VALUE=DATE:20180526
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180601
-DTEND;VALUE=DATE:20180602
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180615
-DTEND;VALUE=DATE:20180616
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180629
-DTEND;VALUE=DATE:20180630
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180727
-DTEND;VALUE=DATE:20180728
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180803
-DTEND;VALUE=DATE:20180804
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180824
-DTEND;VALUE=DATE:20180825
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180831
-DTEND;VALUE=DATE:20180901
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180907
-DTEND;VALUE=DATE:20180908
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180921
-DTEND;VALUE=DATE:20180922
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180928
-DTEND;VALUE=DATE:20180929
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20181006
-DTEND;VALUE=DATE:20181007
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Critmas 2018
-DTSTART;VALUE=DATE:20180526
-DTEND;VALUE=DATE:20180529
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=562
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=1915&year=2018\nEvent Type: Road\nEvent Status:
-  Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?pe
- rmit=2018-1915\nContact Name: Jeff Lucido\nEmail Address: mailto:events@ra
- ceday.systems\nEvent Website:  \nTexas Cup Tier: State\nTexas Cup Event: 
- Yes\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=1915&year=2018
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Marvelous Road Race
 DTSTART;VALUE=DATE:20180602
 DTEND;VALUE=DATE:20180603
@@ -1375,6 +1249,104 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
 LOCATION:San Marcos\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180605
+DTEND;VALUE=DATE:20180606
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180619
+DTEND;VALUE=DATE:20180620
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180710
+DTEND;VALUE=DATE:20180711
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180724
+DTEND;VALUE=DATE:20180725
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180807
+DTEND;VALUE=DATE:20180808
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180821
+DTEND;VALUE=DATE:20180822
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree of Life Crit Series
+DTSTART;VALUE=DATE:20180904
+DTEND;VALUE=DATE:20180905
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=569
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-1005\n
+ Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
+ cycling.org/events/flyer.php?permit=2018-1005\nContact Name: Robert Strick
+ land\nEmail Address:  \nEvent Website: \nTexas Cup Tier: \nTexas Cup Even
+ t: No\n
+LOCATION:New Braunfels\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-1005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial Park Criterium Series
@@ -1549,6 +1521,19 @@ URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1614&year=2018
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Memorial Park Crit Fixed Gear Fun Race
+DTSTART;VALUE=DATE:20180620
+DTEND;VALUE=DATE:20180621
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=596
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
+ 2097\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
+ Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
+LOCATION:Houston\, TX
+STATUS:Scheduled
+URL:On-site
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atomic Time Trials
 DTSTART;VALUE=DATE:20180623
 DTEND;VALUE=DATE:20180624
@@ -1577,6 +1562,21 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=577
 LOCATION:Universal City\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/sunday-chicanes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Gravel Championship
+DTSTART;VALUE=DATE:20180630
+DTEND;VALUE=DATE:20180701
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=581
+ \nRegistration Website: https://www.bikereg.com/texas-gravel-championship2
+ 018\nEvent Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://leg
+ acy.usacycling.org/events/getflyer.php?permit=2018-1295\nContact Name: Cha
+ d Welch / Joy Brott\nEmail Address: mailto:welchc01@live.com\;brottjoy@gma
+ il.com\nEvent Website: http://www.grittyteethracing.com/\nTexas Cup Tier: 
+ \nTexas Cup Event: No\n
+LOCATION:Rosebud\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/texas-gravel-championship2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:22nd Rodeo Road Rally p/b Mesquite Rotary Club
