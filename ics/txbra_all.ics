@@ -589,20 +589,6 @@ URL:Registration
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:San Marvelous Road Race
-DTSTART;VALUE=DATE:20180602
-DTEND;VALUE=DATE:20180603
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
- \nRegistration Website: https://www.bikereg.com/\nEvent Type: Road\nEvent 
- Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
- yer.php?permit=2018-960\nContact Name: Robert Strickland\nEmail Address: m
- ailto:\nEvent Website: www.facebook.com/cibolocreekracing\nTexas Cup Tier:
-  \nTexas Cup Event: No\n
-LOCATION:San Marcos\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:San Marvelous Road Race
 DTSTART;VALUE=DATE:20180630
 DTEND;VALUE=DATE:20180701
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
