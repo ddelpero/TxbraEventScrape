@@ -1099,20 +1099,6 @@ URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1613&year=2018
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunday Chicanes
-DTSTART;VALUE=DATE:20180624
-DTEND;VALUE=DATE:20180625
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=577
- \nRegistration Website: https://www.bikereg.com/sunday-chicanes\nEvent Typ
- e: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.o
- rg/events/getflyer.php?permit=2018-802\nContact Name: Jelly and Jam Racing
- \nEmail Address: mailto:jellyandjamracing@gmail.com\nEvent Website: \nTexa
- s Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Universal City\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/sunday-chicanes
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Texas Gravel Championship
 DTSTART;VALUE=DATE:20180630
 DTEND;VALUE=DATE:20180701
