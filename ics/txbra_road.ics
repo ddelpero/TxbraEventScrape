@@ -337,20 +337,6 @@ URL:https://legacy.usacycling.org/register/2018-2192
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180629
-DTEND;VALUE=DATE:20180630
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
 DTSTART;VALUE=DATE:20180727
 DTEND;VALUE=DATE:20180728
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
