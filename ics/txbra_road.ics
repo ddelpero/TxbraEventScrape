@@ -448,20 +448,6 @@ STATUS:Scheduled
 URL:Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:San Marvelous Road Race
-DTSTART;VALUE=DATE:20180630
-DTEND;VALUE=DATE:20180701
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=576
- \nRegistration Website: https://www.bikereg.com/\nEvent Type: Road\nEvent 
- Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getfl
- yer.php?permit=2018-960\nContact Name: Robert Strickland\nEmail Address: m
- ailto:\nEvent Website: www.facebook.com/cibolocreekracing\nTexas Cup Tier:
-  \nTexas Cup Event: No\n
-LOCATION:San Marcos\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tree of Life Crit Series
 DTSTART;VALUE=DATE:20180710
 DTEND;VALUE=DATE:20180711
@@ -1013,21 +999,6 @@ LOCATION:Houston\, TX (Alkek)
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=1613&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Gravel Championship
-DTSTART;VALUE=DATE:20180630
-DTEND;VALUE=DATE:20180701
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=581
- \nRegistration Website: https://www.bikereg.com/texas-gravel-championship2
- 018\nEvent Type: Gravel\nEvent Status: Scheduled\nEvent Flyer: https://leg
- acy.usacycling.org/events/getflyer.php?permit=2018-1295\nContact Name: Cha
- d Welch / Joy Brott\nEmail Address: mailto:welchc01@live.com\;brottjoy@gma
- il.com\nEvent Website: http://www.grittyteethracing.com/\nTexas Cup Tier: 
- \nTexas Cup Event: No\n
-LOCATION:Rosebud\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/texas-gravel-championship2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:22nd Rodeo Road Rally p/b Mesquite Rotary Club
