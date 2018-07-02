@@ -336,118 +336,6 @@ STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-2192
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180727
-DTEND;VALUE=DATE:20180728
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180803
-DTEND;VALUE=DATE:20180804
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180824
-DTEND;VALUE=DATE:20180825
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180831
-DTEND;VALUE=DATE:20180901
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180907
-DTEND;VALUE=DATE:20180908
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180921
-DTEND;VALUE=DATE:20180922
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20180928
-DTEND;VALUE=DATE:20180929
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alkek Championships Series
-DTSTART;VALUE=DATE:20181006
-DTEND;VALUE=DATE:20181007
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
- eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
- velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
- xas Cup Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tree of Life Crit Series
 DTSTART;VALUE=DATE:20180710
 DTEND;VALUE=DATE:20180711
@@ -957,75 +845,173 @@ STATUS:Scheduled
 URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Master and Junior Regional Championships
-DTSTART;VALUE=DATE:20180609
-DTEND;VALUE=DATE:20180611
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=587
- \nRegistration Website: https://www.bikereg.com/mastersjuniors-regionals-a
- lkek-velodrome\nEvent Type: Track\nEvent Status: Scheduled\nEvent Flyer: h
- ttps://legacy.usacycling.org/events/getflyer.php?permit=2018-1614\nContact
-  Name: Doug Evans\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEve
- nt Website: www.Alkekvelodrome.org\nTexas Cup Tier: Championship\nTexas Cu
- p Event: Yes\n
+SUMMARY:Texas Cup Elite Regional Championships
+DTSTART;VALUE=DATE:20180721
+DTEND;VALUE=DATE:20180723
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=588
+ \nRegistration Website: https://www.bikereg.com/the-elites-at-alkek-velodr
+ ome\nEvent Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://lega
+ cy.usacycling.org/events/getflyer.php?permit=2018-2264\nContact Name: Doug
+  Evans\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEvent Website:
+  www.Alkekvelodrome.org\nTexas Cup Tier: Championship\nTexas Cup Event: Ye
+ s\n
 LOCATION:Houston\, TX (Alkek)
 STATUS:Scheduled
-URL:https://www.bikereg.com/mastersjuniors-regionals-alkek-velodrome
+URL:https://www.bikereg.com/the-elites-at-alkek-velodrome
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memorial Park Crit Fixed Gear Fun Race
-DTSTART;VALUE=DATE:20180620
-DTEND;VALUE=DATE:20180621
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=596
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180727
+DTEND;VALUE=DATE:20180728
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180803
+DTEND;VALUE=DATE:20180804
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180824
+DTEND;VALUE=DATE:20180825
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180831
+DTEND;VALUE=DATE:20180901
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180907
+DTEND;VALUE=DATE:20180908
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180921
+DTEND;VALUE=DATE:20180922
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20180928
+DTEND;VALUE=DATE:20180929
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alkek Championships Series
+DTSTART;VALUE=DATE:20181006
+DTEND;VALUE=DATE:20181007
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
+ \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
+ eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AlkekChampionshipS
+ eries.pdf\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkek
+ velodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTe
+ xas Cup Event: No\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:Registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Racing Post Summer Crits
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180729
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=597
  \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
- 2097\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
- Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-2323\nContact Name: Andy Hollinger\nEmail Address: mailto:andy@aghollin
+ ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier:  \nTexas Cu
+ p Event: No\n
+LOCATION:Fort Worth\, TX
 STATUS:Scheduled
 URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atomic Time Trials
-DTSTART;VALUE=DATE:20180623
-DTEND;VALUE=DATE:20180624
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=585
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=1613&year=2018\nEvent Type: Track\nEvent Status
- : Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.ph
- p?permit=2018-1613\nContact Name: Doug Evans\nEmail Address: mailto:dougev
- ans@alkekvelodrome.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup T
- ier: State\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Alkek)
+SUMMARY:The Racing Post Summer Crits
+DTSTART;VALUE=DATE:20180804
+DTEND;VALUE=DATE:20180805
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=597
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-2323\nContact Name: Andy Hollinger\nEmail Address: mailto:andy@aghollin
+ ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier:  \nTexas Cu
+ p Event: No\n
+LOCATION:Fort Worth\, TX
 STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=1613&year=2018
+URL:On-site
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:22nd Rodeo Road Rally p/b Mesquite Rotary Club
-DTSTART;VALUE=DATE:20180630
-DTEND;VALUE=DATE:20180701
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=593
- \nRegistration Website: http://www.rodeoroadrally.com\nEvent Type: Other\n
- Event Status: Scheduled\nEvent Flyer: http://www.rodeoroadrally.com\nConta
- ct Name: James Griffin\nEmail Address: mailto:info@rodeoroadrally.com\nEve
- nt Website: www.rodeoroadrally.com\nTexas Cup Tier: \nTexas Cup Event: No\
- n
-LOCATION:Mesquite\, TX
+SUMMARY:The Racing Post Summer Crits
+DTSTART;VALUE=DATE:20180811
+DTEND;VALUE=DATE:20180812
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=597
+ \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
+ \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
+ 18-2323\nContact Name: Andy Hollinger\nEmail Address: mailto:andy@aghollin
+ ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier:  \nTexas Cu
+ p Event: No\n
+LOCATION:Fort Worth\, TX
 STATUS:Scheduled
-URL:http://www.rodeoroadrally.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elite Regional/State Championships
-DTSTART;VALUE=DATE:20180721
-DTEND;VALUE=DATE:20180723
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=588
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Ten
- tative\nEvent Flyer: Flyer\nContact Name: Doug Evans\nEmail Address: mailt
- o:dougevans@alkekvelodrome.org\nEvent Website: www.Alkekvelodrome.org\nTex
- as Cup Tier: Championship\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Tentative
-URL:Registration
+URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castroville Time Trials
