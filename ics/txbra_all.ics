@@ -337,20 +337,6 @@ URL:https://legacy.usacycling.org/register/2018-1005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
-DTSTART;VALUE=DATE:20180717
-DTEND;VALUE=DATE:20180718
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
- \nRegistration Website: https://www.bikereg.com/events/?pid=5137\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.
- org/events/getflyer.php?permit=2018-866\nContact Name: Jorge Merle\nEmail 
- Address: mailto:bluefingers50@gmail.com\nEvent Website: www.facebook.com/g
- roups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/?pid=5137
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit
 DTSTART;VALUE=DATE:20180724
 DTEND;VALUE=DATE:20180725
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
