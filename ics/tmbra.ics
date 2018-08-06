@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:13th Camp Eagle Classic
+DTSTART;VALUE=DATE:20180901
+DTEND;VALUE=DATE:20180903
+DESCRIPTION:2018 Texas Cup XC Mtn Bike Series\nhttp://tmbra.org/index.htm
+LOCATION:Rocksprings, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:26th Annual Piney Hills Classic
+DTSTART;VALUE=DATE:20180915
+DTEND;VALUE=DATE:20180917
+DESCRIPTION:2018 Texas Cup XC Mtn Bike Series\nhttp://tmbra.org/index.htm
+LOCATION:Ruston, LA
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryan/College Station Race
+DTSTART;VALUE=DATE:20181013
+DTEND;VALUE=DATE:201801015
+DESCRIPTION:2018 Texas Cup XC Mtn Bike Series\nhttp://tmbra.org/index.htm
+LOCATION:Bryan/College Station, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cameron Park Blowout
+DTSTART;VALUE=DATE:20181021
+DTEND;VALUE=DATE:201801022
+DESCRIPTION:2018 Texas Cup XC Mtn Bike Series\nhttp://tmbra.org/index.htm
+LOCATION:Waco, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20th Huntsville Classic p/b Bike Barn honoring Dave Boyd & Kevin Koen
+DTSTART;VALUE=DATE:20181104
+DTEND;VALUE=DATE:201801105
+DESCRIPTION:2018 Texas Cup XC Mtn Bike Series\nhttp://tmbra.org/index.htm
+LOCATION:Waco, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palo Duro Canyon Mtn. Bike Marathon
+DTSTART;VALUE=DATE:20181110
+DTEND;VALUE=DATE:201801111
+DESCRIPTION:2019 Hill Country Bicycle Works Texas Marathon Mtn. Bike State Championship Series\nhttp://tmbra.org/index.htm
+LOCATION:Canyon, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hügelland Holiday Marathon
+DTSTART;VALUE=DATE:20181201
+DTEND;VALUE=DATE:201801202
+DESCRIPTION:2019 Hill Country Bicycle Works Texas Marathon Mtn. Bike State Championship Series\nhttp://tmbra.org/index.htm
+LOCATION:Hilltop Trails Fredericksburg, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fat Chucks Revenge
+DTSTART;VALUE=DATE:20181215
+DTEND;VALUE=DATE:201801216
+DESCRIPTION:2019 Hill Country Bicycle Works Texas Marathon Mtn. Bike State Championship Series\nhttp://tmbra.org/index.htm
+LOCATION:Rocky Hill Ranch Smithville, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Excruciation Exam
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DESCRIPTION:2019 Hill Country Bicycle Works Texas Marathon Mtn. Bike State Championship Series\nhttp://tmbra.org/index.htm
+LOCATION:Warda, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miles of Dis-Comfort Marathon
+DTSTART;VALUE=DATE:20190126
+DTEND;VALUE=DATE:20190127
+DESCRIPTION:2019 Hill Country Bicycle Works Texas Marathon Mtn. Bike State Championship Series\nhttp://tmbra.org/index.htm
+LOCATION:Flat Rock Ranch Comfort, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/events/Off-Road/TEXAS/
+END:VEVENT
+END:VCALENDAR

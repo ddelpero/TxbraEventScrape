@@ -34,7 +34,8 @@ class TxbraEventScrape():
 
 
    def buildEvent(self, startDate, endDate, details):
-      print  details['Event Type'], details['Event Name'], startDate, endDate
+      #print details
+      print details['Event Type'], details['Event Name'], startDate, endDate
       event = icalendar.Event()
       event.add('dtstart', startDate)
       event.add('dtend', endDate)
