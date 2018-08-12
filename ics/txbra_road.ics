@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:The Racing Post Summer Crits
-DTSTART;VALUE=DATE:20180811
-DTEND;VALUE=DATE:20180812
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=597
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?permit=20
- 18-2323\nContact Name: Andy Hollinger\nEmail Address: mailto:andy@aghollin
- ger.org\nEvent Website: www.theracingpost.us\nTexas Cup Tier:  \nTexas Cu
- p Event: No\n
-LOCATION:Fort Worth\, TX
-STATUS:Scheduled
-URL:On-site
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tree of Life Crit Series
 DTSTART;VALUE=DATE:20180821
 DTEND;VALUE=DATE:20180822
