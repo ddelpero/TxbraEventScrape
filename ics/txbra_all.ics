@@ -425,20 +425,6 @@ STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-2192
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Castroville Time Trials
-DTSTART;VALUE=DATE:20180812
-DTEND;VALUE=DATE:20180813
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=575
- \nRegistration Website: https://www.bikereg.com/castrovilletimetrialmarch\
- nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
- acycling.org/events/getflyer.php?permit=2018-1048\nContact Name: \nEmail A
- ddress: mailto:infohcsa@gmail.com\nEvent Website: www.hillcountrysa.org\nT
- exas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Castroville\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/castrovilletimetrialmarch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hotter 'n Hell
 DTSTART;VALUE=DATE:20180824
 DTEND;VALUE=DATE:20180827
