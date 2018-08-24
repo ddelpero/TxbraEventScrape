@@ -1,2 +1,210 @@
 BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Best Cross
+DTSTART;VALUE=DATE:20180922
+DTEND;VALUE=DATE:20180924
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=603
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Aaron Nelson\nEmail Address: mailto:jellya
+ ndjamracing@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cu
+ p Event: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Weeknight Race Series
+DTSTART;VALUE=DATE:20180926
+DTEND;VALUE=DATE:20180927
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=601
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Weeknight Race Series
+DTSTART;VALUE=DATE:20181010
+DTEND;VALUE=DATE:20181011
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=601
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Weeknight Race Series
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181025
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=601
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Weeknight Race Series
+DTSTART;VALUE=DATE:20181107
+DTEND;VALUE=DATE:20181108
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=601
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Weeknight Race Series
+DTSTART;VALUE=DATE:20181121
+DTEND;VALUE=DATE:20181122
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=601
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creek Cross Weeknight Race Series
+DTSTART;VALUE=DATE:20181205
+DTEND;VALUE=DATE:20181206
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=601
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXTOPIA Weeknight Series
+DTSTART;VALUE=DATE:20181002
+DTEND;VALUE=DATE:20181003
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=602
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortw
+ orthcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Eve
+ nt: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXTOPIA Weeknight Series
+DTSTART;VALUE=DATE:20181009
+DTEND;VALUE=DATE:20181010
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=602
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortw
+ orthcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Eve
+ nt: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXTOPIA Weeknight Series
+DTSTART;VALUE=DATE:20181016
+DTEND;VALUE=DATE:20181017
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=602
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortw
+ orthcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Eve
+ nt: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXTOPIA Weeknight Series
+DTSTART;VALUE=DATE:20181023
+DTEND;VALUE=DATE:20181024
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=602
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortw
+ orthcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Eve
+ nt: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXTOPIA Weeknight Series
+DTSTART;VALUE=DATE:20181030
+DTEND;VALUE=DATE:20181031
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=602
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortw
+ orthcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Eve
+ nt: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FWCX CXTOPIA Weeknight Series
+DTSTART;VALUE=DATE:20181106
+DTEND;VALUE=DATE:20181107
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=602
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
+ d\nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortw
+ orthcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Eve
+ nt: \n
+LOCATION:Ft. Worth\, TX
+STATUS:Permitted
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX : The Six Shooter
+DTSTART;VALUE=DATE:20181006
+DTEND;VALUE=DATE:20181008
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=604
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Tentativ
+ e\nEvent Flyer: \nContact Name: Brett Kinsey\nEmail Address: mailto:brettb
+ k512@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Event
+ : \n
+LOCATION:Austin\, TX
+STATUS:Tentative
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTXCX : Cornucopia of Cross
+DTSTART;VALUE=DATE:20181006
+DTEND;VALUE=DATE:20181008
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=605
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mail
+ to:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexa
+ s Cup Event: \n
+LOCATION:Sherman\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 Texas Cyclocross State Championships
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190107
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=600
+ \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: USAC per
+ mit pending\nEvent Flyer: \nContact Name: Aaron Nelson\nEmail Address: mai
+ lto:jellyandjamracing@gmail.com\nEvent Website: \nTexas Cup Tier: Champion
+ ship\nTexas Cup Event: Yes\n
+LOCATION:San Antonio\, TX
+STATUS:USAC permit pending
+URL: 
+END:VEVENT
 END:VCALENDAR
