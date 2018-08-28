@@ -4,13 +4,14 @@ SUMMARY:Best Cross
 DTSTART;VALUE=DATE:20180922
 DTEND;VALUE=DATE:20180924
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=603
- \nRegistration Website:  \nEvent Type: Cyclocross\nEvent Status: Permitte
- d\nEvent Flyer: \nContact Name: Aaron Nelson\nEmail Address: mailto:jellya
- ndjamracing@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cu
- p Event: \n
-LOCATION:Ft. Worth\, TX
+ \nRegistration Website: https://www.bikereg.com/bestcross2018\nEvent Type:
+  Cyclocross\nEvent Status: Permitted\nEvent Flyer: https://legacy.usacycli
+ ng.org/events/getflyer.php?permit=2018-2722\nContact Name: Aaron Nelson\nE
+ mail Address: mailto:jellyandjamracing@gmail.com\nEvent Website: \nTexas C
+ up Tier: Regional\nTexas Cup Event: \n
+LOCATION:San Antonio\, TX
 STATUS:Permitted
-URL: 
+URL:https://www.bikereg.com/bestcross2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creek Cross Weeknight Race Series
@@ -193,6 +194,181 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=605
 LOCATION:Sherman\, TX
 STATUS:USAC permit pending
 URL: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATXCup : Georgetown Cyclocross Festival
+DTSTART;VALUE=DATE:20181013
+DTEND;VALUE=DATE:20181015
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=606
+ \nRegistration Website: https://www.bikereg.com/gtcxfest\nEvent Type: Cycl
+ ocross\nEvent Status: Permitted\nEvent Flyer: https://legacy.usacycling.or
+ g/events/getflyer.php?permit=2018-2821\nContact Name: Chad Welch\nEmail Ad
+ dress: mailto:grittyteethracing@gmail.com\nEvent Website: \nTexas Cup Tier
+ : Regional\nTexas Cup Event: \n
+LOCATION:Georgetown\, TX
+STATUS:Permitted
+URL:https://www.bikereg.com/gtcxfest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vie13CX @ Millican Reserve
+DTSTART;VALUE=DATE:20181020
+DTEND;VALUE=DATE:20181022
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=608
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-2827\n
+ Event Type: Cyclocross\nEvent Status: USAC permit pending\nEvent Flyer: ht
+ tps://legacy.usacycling.org/events/flyer.php?permit=2018-2827\nContact Nam
+ e: Ino Sofjan\nEmail Address: mailto:vie13cx@nwcc.bike\nEvent Website: htt
+ p://vie13cx.com\nTexas Cup Tier: Regional\nTexas Cup Event: \n
+LOCATION:College Station\, TX
+STATUS:USAC permit pending
+URL:https://legacy.usacycling.org/register/2018-2827
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTXCX : Race #3/4
+DTSTART;VALUE=DATE:20181020
+DTEND;VALUE=DATE:20181022
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=609
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: USAC permi
+ t pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mailto
+ :jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas 
+ Cup Event: \n
+LOCATION:TBD
+STATUS:USAC permit pending
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX : Webberville CX
+DTSTART;VALUE=DATE:20181020
+DTEND;VALUE=DATE:20181022
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=610
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Tentative\
+ nEvent Flyer: \nContact Name: Brett Kinsey\nEmail Address: mailto:brettbk5
+ 12@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Event: 
+ \n
+LOCATION:Webberville\, TX
+STATUS:Tentative
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX : The Cross of Ages
+DTSTART;VALUE=DATE:20181027
+DTEND;VALUE=DATE:20181029
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=611
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Tentative\
+ nEvent Flyer: \nContact Name: Brett Kinsey\nEmail Address: mailto:brettbk5
+ 12@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Event: 
+ \n
+LOCATION:Austin\, TX
+STATUS:Tentative
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SXCX : Apache Pass Cross Blowout
+DTSTART;VALUE=DATE:20181103
+DTEND;VALUE=DATE:20181105
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=612
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Tentative\
+ nEvent Flyer: \nContact Name: Brett Kinsey\nEmail Address: mailto:brettbk5
+ 12@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Event: 
+ \n
+LOCATION:Austin\, TX
+STATUS:Tentative
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTXCX : Still Spooky Cross @ TUPPS Brewery
+DTSTART;VALUE=DATE:20181103
+DTEND;VALUE=DATE:20181105
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=613
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: USAC permi
+ t pending\nEvent Flyer: \nContact Name: Jeff  Lucido\nEmail Address: mailt
+ o:jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas
+  Cup Event: \n
+LOCATION:McKinney\, TX
+STATUS:USAC permit pending
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATXCup : WurstCross Cyclocross Festival
+DTSTART;VALUE=DATE:20181110
+DTEND;VALUE=DATE:20181112
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=607
+ \nRegistration Website: https://www.bikereg.com/wurstcross\nEvent Type: Cy
+ clocross\nEvent Status: Permitted\nEvent Flyer: https://legacy.usacycling.
+ org/events/getflyer.php?permit=2018-2828\nContact Name: Chad Welch\nEmail 
+ Address: mailto:grittyteethracing@gmail.com\nEvent Website: http://atxcxcu
+ p.com/wurstcross-cyclocross\nTexas Cup Tier: Regional\nTexas Cup Event: \n
+LOCATION:New Braunfels\, TX
+STATUS:Permitted
+URL:https://www.bikereg.com/wurstcross
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Norte
+DTSTART;VALUE=DATE:20181117
+DTEND;VALUE=DATE:20181119
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=614
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: Bryan Roberts\nEmail Address: mailto:fortwor
+ thcx@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Event
+ : \n
+LOCATION:Haltom City\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTXCX : Resolution Cross Cup (ProCX/UCI C2)
+DTSTART;VALUE=DATE:20181201
+DTEND;VALUE=DATE:20181203
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=615
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: USAC permi
+ t pending\nEvent Flyer: \nContact Name: Jeff Lucido\nEmail Address: mailto
+ :jlucido@texascross.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas 
+ Cup Event: \n
+LOCATION:Garland\, TX
+STATUS:USAC permit pending
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruts n' Guts (ProCX/UCI C1/C2)
+DTSTART;VALUE=DATE:20181208
+DTEND;VALUE=DATE:20181210
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=616
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: Tanner Culbreath\nEmail Address: mailto:ruts
+ nguts@gmail.com\nEvent Website: \nTexas Cup Tier: Regional\nTexas Cup Even
+ t: \n
+LOCATION:Tulsa\, OK
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terra X Cyclocross Race
+DTSTART;VALUE=DATE:20181208
+DTEND;VALUE=DATE:20181209
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=617
+ \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
+ ename=registration&eventid=2774&year=2018\nEvent Type: Cyclocross\nEvent S
+ tatus: USAC permit pending\nEvent Flyer: https://legacy.usacycling.org/eve
+ nts/getflyer.php?permit=2018-2774\nContact Name: Maurizio Topini\nEmail Ad
+ dress: mailto:mtopini@gmail.com\nEvent Website: \nTexas Cup Tier: Regional
+ \nTexas Cup Event: \n
+LOCATION:The Woodlands\, TX
+STATUS:USAC permit pending
+URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
+ ventid=2774&year=2018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181211
+DTEND;VALUE=DATE:20181217
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2018/19 Texas Cyclocross State Championships
