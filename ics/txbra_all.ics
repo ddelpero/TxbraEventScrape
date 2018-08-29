@@ -15,20 +15,6 @@ URL:https://legacy.usacycling.org/register/2018-1005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
-DTSTART;VALUE=DATE:20180828
-DTEND;VALUE=DATE:20180829
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
- \nRegistration Website: https://www.bikereg.com/events/?pid=5137\nEvent Ty
- pe: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycling.
- org/events/getflyer.php?permit=2018-866\nContact Name: Jorge Merle\nEmail 
- Address: mailto:bluefingers50@gmail.com\nEvent Website: www.facebook.com/g
- roups/717333451634729/\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Richardson\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/events/?pid=5137
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Night Crit
 DTSTART;VALUE=DATE:20180904
 DTEND;VALUE=DATE:20180905
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=573
@@ -649,6 +635,111 @@ STATUS:Permitted
 URL:https://www.bikereg.com/gtcxfest
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181013
+DTEND;VALUE=DATE:20181014
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181211
+DTEND;VALUE=DATE:20181212
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181212
+DTEND;VALUE=DATE:20181213
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181213
+DTEND;VALUE=DATE:20181214
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181214
+DTEND;VALUE=DATE:20181215
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181215
+DTEND;VALUE=DATE:20181216
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2018/19 USAC Cyclocross National Championships
+DTSTART;VALUE=DATE:20181216
+DTEND;VALUE=DATE:20181217
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
+ \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
+ nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
+ @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
+ onals\nTexas Cup Tier: National\nTexas Cup Event: \n
+LOCATION:Louisville\, TX
+STATUS:Scheduled
+URL:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Bull Last Stand
+DTSTART;VALUE=DATE:20181013
+DTEND;VALUE=DATE:20181014
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=619
+ \nRegistration Website: \nEvent Type: Road\nEvent Status: USAC permit pend
+ ing\nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=20
+ 18-2219\nContact Name: Ravi Rajcoomar\nEmail Address: mailto:redbulllastst
+ and@gmail.com\nEvent Website: http://laststand.splashthat.com\nTexas Cup T
+ ier: \nTexas Cup Event: \n
+LOCATION:San Antonio\, TX
+STATUS:USAC permit pending
+URL:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vie13CX @ Millican Reserve
 DTSTART;VALUE=DATE:20181020
 DTEND;VALUE=DATE:20181022
@@ -795,19 +886,6 @@ LOCATION:The Woodlands\, TX
 STATUS:USAC permit pending
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=2774&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2018/19 USAC Cyclocross National Championships
-DTSTART;VALUE=DATE:20181211
-DTEND;VALUE=DATE:20181217
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
- \nRegistration Website: \nEvent Type: Cyclocross\nEvent Status: Scheduled\
- nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
- @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
- onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
-STATUS:Scheduled
-URL:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2018/19 Texas Cyclocross State Championships
