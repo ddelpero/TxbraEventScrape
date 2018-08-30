@@ -218,7 +218,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -231,7 +231,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -244,7 +244,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -257,7 +257,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -270,7 +270,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -283,7 +283,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -296,7 +296,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -407,7 +407,7 @@ STATUS:Scheduled
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX : Resolution Cross Cup (ProCX/UCI C2)
+SUMMARY:NTXCX : Resolution Cross Cup (ProCX/UCI C2/C2)
 DTSTART;VALUE=DATE:20181201
 DTEND;VALUE=DATE:20181203
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=615

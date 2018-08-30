@@ -43,21 +43,6 @@ URL:https://www.bikereg.com/events/?pid=5137
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McKinney Wednesday Night Criterium Series
-DTSTART;VALUE=DATE:20180829
-DTEND;VALUE=DATE:20180830
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
- ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=961&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McKinney Wednesday Night Criterium Series
 DTSTART;VALUE=DATE:20180905
 DTEND;VALUE=DATE:20180906
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
@@ -130,19 +115,6 @@ LOCATION:McKinney\, TX
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
  ventid=961&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Park Criterium Series
-DTSTART;VALUE=DATE:20180829
-DTEND;VALUE=DATE:20180830
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=595
- \nRegistration Website: On-site\nEvent Type: Road\nEvent Status: Scheduled
- \nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=2018-
- 1761\nContact Name: Tim Barnett\nEmail Address: mailto:race@bikebarn.com\n
- Event Website:  \nTexas Cup Tier:  \nTexas Cup Event: No\n
-LOCATION:Houston\, TX
-STATUS:Scheduled
-URL:On-site
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Driveway Series
@@ -643,7 +615,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -656,7 +628,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -669,7 +641,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -682,7 +654,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -695,7 +667,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -708,7 +680,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -721,7 +693,7 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=618
  nEvent Flyer: \nContact Name: USA Cycling\nEmail Address: mailto:tmccarthy
  @usacycling.org\nEvent Website: https://legacy.usacycling.org/2018/cx-nati
  onals\nTexas Cup Tier: National\nTexas Cup Event: \n
-LOCATION:Louisville\, TX
+LOCATION:Louisville\,KY
 STATUS:Scheduled
 URL:
 END:VEVENT
@@ -846,7 +818,7 @@ STATUS:Scheduled
 URL:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NTXCX : Resolution Cross Cup (ProCX/UCI C2)
+SUMMARY:NTXCX : Resolution Cross Cup (ProCX/UCI C2/C2)
 DTSTART;VALUE=DATE:20181201
 DTEND;VALUE=DATE:20181203
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=615
