@@ -1,5 +1,19 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
+SUMMARY:The International Omnium p/b NWCC
+DTSTART;VALUE=DATE:20180902
+DTEND;VALUE=DATE:20180903
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=590
+ \nRegistration Website: https://legacy.usacycling.org/register/2018-2607\n
+ Event Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
+ acycling.org/events/getflyer.php?permit=2018-2607\nContact Name: Doug Evan
+ s\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEvent Website: http
+ ://alkekvelodrome.org/\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
+LOCATION:Houston\, TX (Alkek)
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/register/2018-2607
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tree of Life Crit Series
 DTSTART;VALUE=DATE:20180904
 DTEND;VALUE=DATE:20180905
@@ -118,20 +132,6 @@ URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180830
-DTEND;VALUE=DATE:20180831
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
 DTSTART;VALUE=DATE:20180906
 DTEND;VALUE=DATE:20180907
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
@@ -188,20 +188,6 @@ URL:https://www.bikereg.com/pure-driveway-series-season-pass
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KingRacingGroup Thursday Night Crits
-DTSTART;VALUE=DATE:20180830
-DTEND;VALUE=DATE:20180831
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
- \nRegistration Website: https://legacy.usacycling.org/register/2018-2192\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/getflyer.php?permit=2018-2192\nContact Name: Ginny King
- \nEmail Address: mailto:ginny.king@att.net\nEvent Website: www.kingracingg
- roup.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Dallas\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-2192
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KingRacingGroup Thursday Night Crits
 DTSTART;VALUE=DATE:20180906
 DTEND;VALUE=DATE:20180907
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
@@ -227,22 +213,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=572
 LOCATION:Dallas\, TX
 STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-2192
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hotter 'n Hell
-DTSTART;VALUE=DATE:20180824
-DTEND;VALUE=DATE:20180827
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=558
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=2081&year=2018\nEvent Type: Road\nEvent Status:
-  Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php
- ?permit=2018-2081\nContact Name: Charlie Zamastil\nEmail Address: mailto:Z
- amastil@gmail.com\nEvent Website: http://www.hh100.org/usac-and-crits/\nTe
- xas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:Wichita Falls\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=2081&year=2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championships Series
@@ -313,34 +283,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
 LOCATION:Houston\, TX (Alkek)
 STATUS:Scheduled
 URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Cup Keirin at Alkek
-DTSTART;VALUE=DATE:20180901
-DTEND;VALUE=DATE:20180902
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=589
- \nRegistration Website: https://legacy.usacycling.org/register/2018-2573\n
- Event Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
- acycling.org/events/getflyer.php?permit=2018-2573\nContact Name: Doug Evan
- s\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEvent Website: http
- ://alkekvelodrome.org/\nTexas Cup Tier: Stage\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-2573
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The International Omnium p/b NWCC
-DTSTART;VALUE=DATE:20180902
-DTEND;VALUE=DATE:20180903
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=590
- \nRegistration Website: https://legacy.usacycling.org/register/2018-2607\n
- Event Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
- acycling.org/events/getflyer.php?permit=2018-2607\nContact Name: Doug Evan
- s\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEvent Website: http
- ://alkekvelodrome.org/\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-2607
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chappell Hill Road Race
