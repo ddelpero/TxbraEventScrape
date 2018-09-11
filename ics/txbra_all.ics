@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:The International Omnium p/b NWCC
-DTSTART;VALUE=DATE:20180902
-DTEND;VALUE=DATE:20180903
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=590
- \nRegistration Website: https://legacy.usacycling.org/register/2018-2607\n
- Event Type: Track\nEvent Status: Scheduled\nEvent Flyer: https://legacy.us
- acycling.org/events/getflyer.php?permit=2018-2607\nContact Name: Doug Evan
- s\nEmail Address: mailto:dougevans@alkekvelodrome.org\nEvent Website: http
- ://alkekvelodrome.org/\nTexas Cup Tier: State\nTexas Cup Event: Yes\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-2607
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Night Crit
 DTSTART;VALUE=DATE:20180911
 DTEND;VALUE=DATE:20180912
@@ -144,6 +130,20 @@ STATUS:Scheduled
 URL:https://legacy.usacycling.org/register/2018-2192
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:State Road Race Championships
+DTSTART;VALUE=DATE:20180915
+DTEND;VALUE=DATE:20180917
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=560
+ \nRegistration Website: https://www.bikereg.com/fhc\nEvent Type: Road\nEve
+ nt Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/ge
+ tflyer.php?permit=2018-2583\nContact Name: Andy Hollinger\nEmail Address: 
+ mailto:\nEvent Website: website\nTexas Cup Tier: Championship\nTexas Cup E
+ vent: Yes\n
+LOCATION:Fort Hood\, TX
+STATUS:Scheduled
+URL:https://www.bikereg.com/fhc
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alkek Championships Series
 DTSTART;VALUE=DATE:20180921
 DTEND;VALUE=DATE:20180922
@@ -184,34 +184,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=592
 LOCATION:Houston\, TX (Alkek)
 STATUS:Scheduled
 URL:Registration
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chappell Hill Road Race
-DTSTART;VALUE=DATE:20180909
-DTEND;VALUE=DATE:20180910
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=559
- \nRegistration Website: https://legacy.usacycling.org/register/2018-1672\n
- Event Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usa
- cycling.org/events/getflyer.php?permit=2018-1672\nContact Name: Ino Sofjan
- \nEmail Address: mailto:chappellhill@nwcc.bike\nEvent Website: chappellhil
- lroadrace.com\nTexas Cup Tier: Elite\nTexas Cup Event: Yes\n
-LOCATION:Chappell Hill\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/register/2018-1672
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:State Road Race Championships
-DTSTART;VALUE=DATE:20180915
-DTEND;VALUE=DATE:20180917
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=560
- \nRegistration Website: https://www.bikereg.com/fhc\nEvent Type: Road\nEve
- nt Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/ge
- tflyer.php?permit=2018-2583\nContact Name: Andy Hollinger\nEmail Address: 
- mailto:\nEvent Website: website\nTexas Cup Tier: Championship\nTexas Cup E
- vent: Yes\n
-LOCATION:Fort Hood\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/fhc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:East Texas Omnium
@@ -545,14 +517,14 @@ SUMMARY:Red Bull Last Stand
 DTSTART;VALUE=DATE:20181013
 DTEND;VALUE=DATE:20181014
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=619
- \nRegistration Website: \nEvent Type: Road\nEvent Status: USAC permit pend
- ing\nEvent Flyer: https://legacy.usacycling.org/events/flyer.php?permit=20
- 18-2219\nContact Name: Ravi Rajcoomar\nEmail Address: mailto:redbulllastst
- and@gmail.com\nEvent Website: http://laststand.splashthat.com\nTexas Cup T
- ier: \nTexas Cup Event: \n
+ \nRegistration Website: https://www.bikereg.com/red-bull-last-stand\nEvent
+  Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://legacy.usacycli
+ ng.org/events/flyer.php?permit=2018-2219\nContact Name: Ravi Rajcoomar\nEm
+ ail Address: mailto:redbulllaststand@gmail.com\nEvent Website: http://last
+ stand.splashthat.com\nTexas Cup Tier: \nTexas Cup Event: \n
 LOCATION:San Antonio\, TX
-STATUS:USAC permit pending
-URL:
+STATUS:Scheduled
+URL:https://www.bikereg.com/red-bull-last-stand
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vie13CX @ Millican Reserve
