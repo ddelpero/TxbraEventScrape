@@ -1,21 +1,6 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:McKinney Wednesday Night Criterium Series
-DTSTART;VALUE=DATE:20180919
-DTEND;VALUE=DATE:20180920
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
- ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=961&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McKinney Wednesday Night Criterium Series
 DTSTART;VALUE=DATE:20180926
 DTEND;VALUE=DATE:20180927
 DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
