@@ -1,49 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:McKinney Wednesday Night Criterium Series
-DTSTART;VALUE=DATE:20180926
-DTEND;VALUE=DATE:20180927
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
- ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=961&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McKinney Wednesday Night Criterium Series
-DTSTART;VALUE=DATE:20181003
-DTEND;VALUE=DATE:20181004
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
- \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
- ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
- Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
- permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
- ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:McKinney\, TX
-STATUS:Scheduled
-URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
- ventid=961&year=2018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Driveway Series
-DTSTART;VALUE=DATE:20180920
-DTEND;VALUE=DATE:20180921
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
- \nRegistration Website: https://www.bikereg.com/pure-driveway-series-seaso
- n-pass\nEvent Type: Road\nEvent Status: Scheduled\nEvent Flyer: https://le
- gacy.usacycling.org/events/getflyer.php?permit=2018-392\nContact Name: Kel
- ley Ables\nEmail Address: mailto:kelley.ables@hollandracing.net\nEvent Web
- site: www.drivewayseries.com\nTexas Cup Tier: \nTexas Cup Event: No\n
-LOCATION:Austin\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Driveway Series
 DTSTART;VALUE=DATE:20180927
 DTEND;VALUE=DATE:20180928
@@ -56,20 +12,6 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=571
 LOCATION:Austin\, TX
 STATUS:Scheduled
 URL:https://www.bikereg.com/pure-driveway-series-season-pass
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:State Road Race Championships
-DTSTART;VALUE=DATE:20180915
-DTEND;VALUE=DATE:20180917
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=560
- \nRegistration Website: https://www.bikereg.com/fhc\nEvent Type: Road\nEve
- nt Status: Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/ge
- tflyer.php?permit=2018-2583\nContact Name: Andy Hollinger\nEmail Address: 
- mailto:\nEvent Website: website\nTexas Cup Tier: Championship\nTexas Cup E
- vent: Yes\n
-LOCATION:Fort Hood\, TX
-STATUS:Scheduled
-URL:https://www.bikereg.com/fhc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alkek Championships Series
@@ -114,18 +56,6 @@ STATUS:Scheduled
 URL:Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:East Texas Omnium
-DTSTART;VALUE=DATE:20180922
-DTEND;VALUE=DATE:20180924
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=561
- \nRegistration Website: www....\nEvent Type: Road\nEvent Status: Tentative
- \nEvent Flyer: Flyer\nContact Name: David Hernandez\nEmail Address: mailto
- :\nEvent Website: website\nTexas Cup Tier: \nTexas Cup Event: Yes\n
-LOCATION:Longview\, TX
-STATUS:Tentative
-URL:www....
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Atomic Time Trials
 DTSTART;VALUE=DATE:20180922
 DTEND;VALUE=DATE:20180923
@@ -152,6 +82,36 @@ DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=603
 LOCATION:San Antonio\, TX
 STATUS:Permitted
 URL:https://www.bikereg.com/bestcross2018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McKinney Wednesday Night Criterium Series
+DTSTART;VALUE=DATE:20180926
+DTEND;VALUE=DATE:20180927
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
+ \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
+ ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
+ Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
+ permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
+ ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:McKinney\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
+ ventid=961&year=2018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McKinney Wednesday Night Criterium Series
+DTSTART;VALUE=DATE:20181003
+DTEND;VALUE=DATE:20181004
+DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=579
+ \nRegistration Website: https://legacy.usacycling.org/myusac/index.php?pag
+ ename=registration&eventid=961&year=2018\nEvent Type: Road\nEvent Status: 
+ Scheduled\nEvent Flyer: https://legacy.usacycling.org/events/getflyer.php?
+ permit=2018-961\nContact Name: Ryan Crissey\nEmail Address: mailto:ryancri
+ ssey@yahoo.com\nEvent Website: \nTexas Cup Tier: \nTexas Cup Event: No\n
+LOCATION:McKinney\, TX
+STATUS:Scheduled
+URL:https://legacy.usacycling.org/myusac/index.php?pagename=registration&e
+ ventid=961&year=2018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creek Cross Weeknight Race Series
