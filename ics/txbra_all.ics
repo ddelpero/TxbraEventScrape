@@ -42,20 +42,6 @@ STATUS:Scheduled
 URL:Registration
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atomic Time Trials
-DTSTART;VALUE=DATE:20180922
-DTEND;VALUE=DATE:20180923
-DESCRIPTION:TXBRA Event: http://www.txbra.org/events/event.asp?EventID=591
- \nRegistration Website: Registration\nEvent Type: Track\nEvent Status: Sch
- eduled\nEvent Flyer: http://www.txbra.org/db/events/2018AtomicTimeTrials.p
- df\nContact Name: Doug Evans\nEmail Address: mailto:dougevans@alkekvelodro
- me.org\nEvent Website: www.Alkekvelodrome.org\nTexas Cup Tier: \nTexas Cup
-  Event: No\n
-LOCATION:Houston\, TX (Alkek)
-STATUS:Scheduled
-URL:Registration
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Best Cross
 DTSTART;VALUE=DATE:20180922
 DTEND;VALUE=DATE:20180924
